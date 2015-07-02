@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DoctorEntity" targetNamespace="http://tempuri.org/DoctorEntity.xsd" xmlns:mstns="http://tempuri.org/DoctorEntity.xsd" xmlns="http://tempuri.org/DoctorEntity.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DoctorEntity" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DoctorEntity" msprop:Generator_DataSetName="DoctorEntity" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DoctorEntity" msprop:Generator_UserTableName="DoctorEntity" msprop:Generator_RowDeletedName="DoctorEntityRowDeleted" msprop:Generator_RowChangedName="DoctorEntityRowChanged" msprop:Generator_RowClassName="DoctorEntityRow" msprop:Generator_RowChangingName="DoctorEntityRowChanging" msprop:Generator_RowEvArgName="DoctorEntityRowChangeEvent" msprop:Generator_RowEvHandlerName="DoctorEntityRowChangeEventHandler" msprop:Generator_TableClassName="DoctorEntityDataTable" msprop:Generator_TableVarName="tableDoctorEntity" msprop:Generator_RowDeletingName="DoctorEntityRowDeleting" msprop:Generator_TablePropName="_DoctorEntity">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Doctor_Code" msprop:Generator_UserColumnName="Doctor_Code" msprop:Generator_ColumnVarNameInTable="columnDoctor_Code" msprop:Generator_ColumnPropNameInRow="Doctor_Code" msprop:Generator_ColumnPropNameInTable="Doctor_CodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Doctor_Name" msprop:Generator_UserColumnName="Doctor_Name" msprop:Generator_ColumnVarNameInTable="columnDoctor_Name" msprop:Generator_ColumnPropNameInRow="Doctor_Name" msprop:Generator_ColumnPropNameInTable="Doctor_NameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Desc" msprop:Generator_UserColumnName="Desc" msprop:Generator_ColumnVarNameInTable="columnDesc" msprop:Generator_ColumnPropNameInRow="Desc" msprop:Generator_ColumnPropNameInTable="DescColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Pos" msprop:Generator_UserColumnName="Pos" msprop:Generator_ColumnVarNameInTable="columnPos" msprop:Generator_ColumnPropNameInRow="Pos" msprop:Generator_ColumnPropNameInTable="PosColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="OldPos" msprop:Generator_UserColumnName="OldPos" msprop:Generator_ColumnVarNameInTable="columnOldPos" msprop:Generator_ColumnPropNameInRow="OldPos" msprop:Generator_ColumnPropNameInTable="OldPosColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="IsEmerency" msprop:Generator_UserColumnName="IsEmerency" msprop:Generator_ColumnPropNameInRow="IsEmerency" msprop:Generator_ColumnVarNameInTable="columnIsEmerency" msprop:Generator_ColumnPropNameInTable="IsEmerencyColumn" type="xs:short" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

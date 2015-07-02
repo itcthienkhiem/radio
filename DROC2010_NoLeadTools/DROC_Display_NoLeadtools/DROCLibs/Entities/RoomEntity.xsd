@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="RoomEntity" targetNamespace="http://tempuri.org/RoomEntity.xsd" xmlns:mstns="http://tempuri.org/RoomEntity.xsd" xmlns="http://tempuri.org/RoomEntity.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="RoomEntity" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="RoomEntity" msprop:Generator_UserDSName="RoomEntity" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="RoomEntity" msprop:Generator_UserTableName="RoomEntity" msprop:Generator_RowDeletedName="RoomEntityRowDeleted" msprop:Generator_TableClassName="RoomEntityDataTable" msprop:Generator_RowChangedName="RoomEntityRowChanged" msprop:Generator_RowClassName="RoomEntityRow" msprop:Generator_RowChangingName="RoomEntityRowChanging" msprop:Generator_RowEvArgName="RoomEntityRowChangeEvent" msprop:Generator_RowEvHandlerName="RoomEntityRowChangeEventHandler" msprop:Generator_TablePropName="_RoomEntity" msprop:Generator_TableVarName="tableRoomEntity" msprop:Generator_RowDeletingName="RoomEntityRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Room_ID" msprop:Generator_UserColumnName="Room_ID" msprop:Generator_ColumnPropNameInRow="Room_ID" msprop:Generator_ColumnVarNameInTable="columnRoom_ID" msprop:Generator_ColumnPropNameInTable="Room_IDColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="Room_Code" msprop:Generator_UserColumnName="Room_Code" msprop:Generator_ColumnPropNameInRow="Room_Code" msprop:Generator_ColumnVarNameInTable="columnRoom_Code" msprop:Generator_ColumnPropNameInTable="Room_CodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Room_Name" msprop:Generator_UserColumnName="Room_Name" msprop:Generator_ColumnPropNameInRow="Room_Name" msprop:Generator_ColumnVarNameInTable="columnRoom_Name" msprop:Generator_ColumnPropNameInTable="Room_NameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Department_ID" msprop:Generator_UserColumnName="Department_ID" msprop:Generator_ColumnPropNameInRow="Department_ID" msprop:Generator_ColumnVarNameInTable="columnDepartment_ID" msprop:Generator_ColumnPropNameInTable="Department_IDColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="Pos" msprop:Generator_UserColumnName="Pos" msprop:Generator_ColumnPropNameInRow="Pos" msprop:Generator_ColumnVarNameInTable="columnPos" msprop:Generator_ColumnPropNameInTable="PosColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="OldPos" msprop:Generator_UserColumnName="OldPos" msprop:Generator_ColumnPropNameInRow="OldPos" msprop:Generator_ColumnVarNameInTable="columnOldPos" msprop:Generator_ColumnPropNameInTable="OldPosColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="Desc" msprop:Generator_UserColumnName="Desc" msprop:Generator_ColumnPropNameInRow="Desc" msprop:Generator_ColumnVarNameInTable="columnDesc" msprop:Generator_ColumnPropNameInTable="DescColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Department_Name" msprop:Generator_UserColumnName="Department_Name" msprop:Generator_ColumnPropNameInRow="Department_Name" msprop:Generator_ColumnVarNameInTable="columnDepartment_Name" msprop:Generator_ColumnPropNameInTable="Department_NameColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

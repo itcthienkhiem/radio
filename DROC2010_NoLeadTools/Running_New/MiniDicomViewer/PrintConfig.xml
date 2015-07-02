@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" standalone="no" ?>
+<PrinterConfig>
+	<CONFIG>
+		<PRINTER STATUS="1" NAME="BUNNY PRINTER" AET="BUNNY"/>
+		<CONNECTION IP="192.168.1.136" PORT="3000" TIMEOUT="60000" />		
+		<FILM SIZE="14INX17IN" />		
+	</CONFIG>	
+</PrinterConfig>

@@ -1,0 +1,9 @@
+C:\Project\VS2005\EnCrypt\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\VS2005\EnCrypt\obj\Debug\EnCrypt.vbproj.GenerateResource.Cache
+C:\Project\VS2005\EnCrypt\bin\Debug\EnCrypt.dll
+C:\Project\VS2005\EnCrypt\bin\Debug\EnCrypt.pdb
+C:\Project\VS2005\EnCrypt\bin\Debug\EnCrypt.xml
+C:\Project\VS2005\EnCrypt\obj\Debug\En.Resources.resources
+C:\Project\VS2005\EnCrypt\obj\Debug\EnCrypt.dll
+C:\Project\VS2005\EnCrypt\obj\Debug\EnCrypt.xml
+C:\Project\VS2005\EnCrypt\obj\Debug\EnCrypt.pdb

@@ -1,0 +1,4 @@
+[AutoRun]
+icon=miniDCMViewer.exe
+open=miniDCMViewer.exe
+label=VietbaIT Dicom Viewer

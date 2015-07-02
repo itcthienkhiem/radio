@@ -1,0 +1,47 @@
+START DROC at: 01/04/2013 09:23:06
+ok
+START DROC at: 01/04/2013 09:23:54
+ok
+START DROC at: 01/04/2013 09:25:29
+ok
+START DROC at: 01/04/2013 09:25:44
+ok
+START DROC at: 01/04/2013 09:28:54
+ok
+START DROC at: 01/04/2013 09:47:53
+ok
+START DROC at: 01/04/2013 09:50:13
+ok
+START DROC at: 01/04/2013 10:16:11
+START DROC at: 01/04/2013 10:25:52
+ok
+START DROC at: 01/04/2013 10:26:50
+ok
+START DROC at: 01/04/2013 10:36:13
+ok
+START DROC at: 01/04/2013 12:36:12
+START DROC at: 01/04/2013 12:55:45
+ok
+START DROC at: 01/04/2013 13:00:56
+ok
+START DROC at: 01/04/2013 13:12:58
+ok
+START DROC at: 01/04/2013 13:30:06
+ok
+START DROC at: 01/04/2013 13:45:38
+ok
+==>OpenDicom.SecondsException().Exception occurred at 01/04/2013 13:46:03.System.NullReferenceException: Object reference not set to an instance of an object.
+   at VietBaIT.DROC.DROC_Ribbon.OpenDicom(Boolean& IsCroping, Int32& _Idx, String fileName, Boolean IsOnlyImg, Boolean CanCreatePicBox) in D:\Projects\VS2010\DROCLibs\DROCLibs\Forms\DROC.cs:line 5597
+==>OpenDicom.SecondsException().Exception occurred at 01/04/2013 13:46:14.System.NullReferenceException: Object reference not set to an instance of an object.
+   at VietBaIT.DROC.DROC_Ribbon.OpenDicom(Boolean& IsCroping, Int32& _Idx, String fileName, Boolean IsOnlyImg, Boolean CanCreatePicBox) in D:\Projects\VS2010\DROCLibs\DROCLibs\Forms\DROC.cs:line 5597
+START DROC at: 01/04/2013 13:46:52
+ok
+START DROC at: 01/04/2013 13:53:35
+ok
+START DROC at: 01/04/2013 14:02:57
+ok
+START DROC at: 01/04/2013 14:04:42
+ok
+START DROC at: 01/04/2013 15:35:45
+START DROC at: 01/04/2013 16:02:55
+ok

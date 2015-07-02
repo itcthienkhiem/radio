@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsFilmReport" targetNamespace="http://tempuri.org/dsFilmReport.xsd" xmlns:mstns="http://tempuri.org/dsFilmReport.xsd" xmlns="http://tempuri.org/dsFilmReport.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsFilmReport" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsFilmReport" msprop:Generator_DataSetName="dsFilmReport" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtFilmreport" msprop:Generator_UserTableName="dtFilmreport" msprop:Generator_RowDeletedName="dtFilmreportRowDeleted" msprop:Generator_RowChangedName="dtFilmreportRowChanged" msprop:Generator_RowClassName="dtFilmreportRow" msprop:Generator_RowChangingName="dtFilmreportRowChanging" msprop:Generator_RowEvArgName="dtFilmreportRowChangeEvent" msprop:Generator_RowEvHandlerName="dtFilmreportRowChangeEventHandler" msprop:Generator_TableClassName="dtFilmreportDataTable" msprop:Generator_TableVarName="tabledtFilmreport" msprop:Generator_RowDeletingName="dtFilmreportRowDeleting" msprop:Generator_TablePropName="dtFilmreport">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Created_Date" msprop:Generator_UserColumnName="Created_Date" msprop:Generator_ColumnVarNameInTable="columnCreated_Date" msprop:Generator_ColumnPropNameInRow="Created_Date" msprop:Generator_ColumnPropNameInTable="Created_DateColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FilmSize_8x10" msprop:Generator_UserColumnName="FilmSize_8x10" msprop:Generator_ColumnVarNameInTable="columnFilmSize_8x10" msprop:Generator_ColumnPropNameInRow="FilmSize_8x10" msprop:Generator_ColumnPropNameInTable="FilmSize_8x10Column" type="xs:int" minOccurs="0" />
+              <xs:element name="Patient_ID" msprop:Generator_UserColumnName="Patient_ID" msprop:Generator_ColumnVarNameInTable="columnPatient_ID" msprop:Generator_ColumnPropNameInRow="Patient_ID" msprop:Generator_ColumnPropNameInTable="Patient_IDColumn" type="xs:long" minOccurs="0" />
+              <xs:element name="TotalPictures" msprop:Generator_UserColumnName="TotalPictures" msprop:Generator_ColumnVarNameInTable="columnTotalPictures" msprop:Generator_ColumnPropNameInRow="TotalPictures" msprop:Generator_ColumnPropNameInTable="TotalPicturesColumn" type="xs:long" minOccurs="0" />
+              <xs:element name="FilmSize_10x12" msprop:Generator_UserColumnName="FilmSize_10x12" msprop:Generator_ColumnPropNameInRow="FilmSize_10x12" msprop:Generator_ColumnVarNameInTable="columnFilmSize_10x12" msprop:Generator_ColumnPropNameInTable="FilmSize_10x12Column" type="xs:int" minOccurs="0" />
+              <xs:element name="TotalFilm" msprop:Generator_UserColumnName="TotalFilm" msprop:Generator_ColumnVarNameInTable="columnTotalFilm" msprop:Generator_ColumnPropNameInRow="TotalFilm" msprop:Generator_ColumnPropNameInTable="TotalFilmColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="TotalNoMerge" msprop:Generator_UserColumnName="TotalNoMerge" msprop:Generator_ColumnPropNameInRow="TotalNoMerge" msprop:Generator_ColumnVarNameInTable="columnTotalNoMerge" msprop:Generator_ColumnPropNameInTable="TotalNoMergeColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="FILM_HD" msprop:Generator_UserColumnName="FILM_HD" msprop:Generator_ColumnPropNameInRow="FILM_HD" msprop:Generator_ColumnVarNameInTable="columnFILM_HD" msprop:Generator_ColumnPropNameInTable="FILM_HDColumn" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

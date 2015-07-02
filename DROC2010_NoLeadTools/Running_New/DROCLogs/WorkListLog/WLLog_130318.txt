@@ -1,0 +1,36 @@
+Nhận dữ liệu từ Dicom WorklistServer với Bệnh nhân:1303180001-TADUYHIEN
+Bắt đầu đọc RadCode
+RadCode=HANDLAT
+RadCode=KNEEAP
+RadCode=KNEELAT
+RadCode=HANDAP
+Kết thúc đọc RadCode
+Bắt đầu ánh xạ RadCode
+RadCode=HANDLAT đã được ánh xạ
+RadCode=KNEEAP đã được ánh xạ
+RadCode=KNEELAT đã được ánh xạ
+RadCode=HANDAP đã được ánh xạ
+Kết thúc ánh xạ RadCode
+============================================================================
+Nhận dữ liệu từ Dicom WorklistServer với Bệnh nhân:1303180002-NGUYENVANA
+Bắt đầu đọc RadCode
+RadCode=SKULLLAT
+RadCode=HANDLAT
+RadCode=SKULLAP
+RadCode=HANDAP
+Kết thúc đọc RadCode
+Bắt đầu ánh xạ RadCode
+RadCode=SKULLLAT không tìm được ánh xạ
+RadCode=HANDLAT đã được ánh xạ
+RadCode=SKULLAP không tìm được ánh xạ
+RadCode=HANDAP đã được ánh xạ
+Kết thúc ánh xạ RadCode
+============================================================================
+Nhận dữ liệu từ Dicom WorklistServer với Bệnh nhân:1303180002-NGUYENVANA
+Bắt đầu ánh xạ RadCode
+RadCode=SKULLLAT đã được ánh xạ
+RadCode=HANDLAT đã được ánh xạ
+RadCode=SKULLAP đã được ánh xạ
+RadCode=HANDAP đã được ánh xạ
+Kết thúc ánh xạ RadCode
+============================================================================

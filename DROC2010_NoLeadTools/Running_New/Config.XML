@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Config>
+    <SERVERADDRESS>VBIT-PC</SERVERADDRESS>
+    <DATABASE_ID>DROC_newSQL</DATABASE_ID>
+    <USERNAME>sa</USERNAME>
+    <PASSWORD>sa</PASSWORD>
+    <BranchID>BACHMAI</BranchID>
+    <LANGUAGEDISPLAY>EN</LANGUAGEDISPLAY>
+    <INTERFACEDISPLAY>DOCKING</INTERFACEDISPLAY>
+    <LOCALALIAS />
+  </Config>
+</NewDataSet>

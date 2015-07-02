@@ -1,0 +1,23 @@
+START DROC at: 08/04/2013 14:32:03
+ok
+START DROC at: 08/04/2013 14:43:19
+ok
+START DROC at: 08/04/2013 14:44:34
+ok
+START DROC at: 08/04/2013 14:45:58
+ok
+START DROC at: 08/04/2013 15:00:50
+ok
+START DROC at: 08/04/2013 15:03:57
+ok
+START DROC at: 08/04/2013 15:05:05
+ok
+START DROC at: 08/04/2013 15:05:28
+==>InitFDX3543RP().Exception occurred at 08/04/2013 15:05:34.System.DllNotFoundException: Unable to load DLL 'TETD_FPD_Controller.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+   at VietBaIT.DROC.CInterfaceLower.TETD_DLL_Init(IntPtr ptr)
+   at VietBaIT.DROC.CInterfaceLower.TetdDllInit(TETD_DRIVER_INFO& FpdData_out) in D:\Projects\VS2010\DROCLibs\DROCLibs\FPDSpec\Toshiba_New\CInterfaceLower.cs:line 268
+   at VietBaIT.DROC.CInterfaceLower..ctor(CLog cLog, IntPtr UserData_out) in D:\Projects\VS2010\DROCLibs\DROCLibs\FPDSpec\Toshiba_New\CInterfaceLower.cs:line 204
+   at VietBaIT.DROC.DROC_Ribbon.InitFDX3543RP() in D:\Projects\VS2010\DROCLibs\DROCLibs\Forms\DROC.cs:line 2081
+ok
+START DROC at: 08/04/2013 15:06:36
+ok

@@ -1,0 +1,775 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E80D06BB-0800-4A0F-A090-5E9A103A605C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DROCLibs</RootNamespace>
+    <AssemblyName>DROC</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\..\Running_New\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;LTV17_CONFIG,LEADTOOLS_V16_OR_LATER,LEADTOOLS_V17_OR_LATER</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\..\..\Running_New\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>DevExpress.XtraBars.Demos.RibbonSimplePad.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>XRayIcon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ClearCanvas.Common, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Running\ClearCanvas.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="ClearCanvas.Dicom, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Running\ClearCanvas.Dicom.dll</HintPath>
+    </Reference>
+    <Reference Include="ComLibs, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Running\ComLibs.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DicomConverter">
+      <HintPath>..\..\Library\DicomConverter.dll</HintPath>
+    </Reference>
+    <Reference Include="DROCKey, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Running_New\DROCKey.dll</HintPath>
+    </Reference>
+    <Reference Include="Encrypt">
+      <HintPath>..\..\Library\Encrypt.dll</HintPath>
+    </Reference>
+    <Reference Include="FullScreenMode">
+      <HintPath>..\..\Library\FullScreenMode.dll</HintPath>
+    </Reference>
+    <Reference Include="GemBox.Spreadsheet">
+      <HintPath>..\..\Library\GemBox.Spreadsheet.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.11.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Running\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MultiLanguageCSharp">
+      <HintPath>..\..\Library\MultiLanguageCSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework">
+      <HintPath>..\..\Library\nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="Oledb, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Running\Oledb.dll</HintPath>
+    </Reference>
+    <Reference Include="OledbDAL, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Running\OledbDAL.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Vietbait Mediaburner, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Library_droc\Vietbait Mediaburner.dll</HintPath>
+    </Reference>
+    <Reference Include="VietBaIT.DICOM">
+      <HintPath>..\..\Library\VietBaIT.DICOM.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controls\AnatomyControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\AnatomyControl.Designer.cs">
+      <DependentUpon>AnatomyControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\OScheduledControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\OScheduledControl.Designer.cs">
+      <DependentUpon>OScheduledControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ProjectionControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ProjectionControl.Designer.cs">
+      <DependentUpon>ProjectionControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ScheduledControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ScheduledControl.Designer.cs">
+      <DependentUpon>ScheduledControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Entities\CountryEntity.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CountryEntity.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Entities\DepartmentEntity1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DepartmentEntity.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Entities\DoctorEntity1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DoctorEntity.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Entities\dsFilmReport.cs">
+      <DependentUpon>dsFilmReport.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Entities\dsFilmReport.Designer.cs">
+      <DependentUpon>dsFilmReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Entities\dsFilmReport1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsFilmReport.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Entities\ManufactureEntity1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ManufactureEntity.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Entities\ModalityEntity1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ModalityEntity.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Entities\Mod_TypeEntity1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Mod_TypeEntity.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Entities\PatientEntity1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PatientEntity.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Entities\ProcedureEntity1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProcedureEntity.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Entities\RegDetailEntity1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RegDetailEntity.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Entities\RegEntity1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RegEntity.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Entities\RoomEntity1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RoomEntity.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Entities\ServerEntity1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ServerEntity.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AboutBox1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AboutBox1.designer.cs">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DROC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DROC.Designer.cs">
+      <DependentUpon>DROC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\dsImgProperty.Designer.cs" />
+    <Compile Include="Forms\dsImgProperty1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsImgProperty.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDepartmentList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDepartmentList.designer.cs">
+      <DependentUpon>frmDepartmentList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmRoomList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmRoomList.designer.cs">
+      <DependentUpon>frmRoomList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_AddNewAnatomy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_AddNewAnatomy.Designer.cs">
+      <DependentUpon>frm_AddNewAnatomy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_AddnewConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_AddnewConfig.Designer.cs">
+      <DependentUpon>frm_AddnewConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_AddNewProjection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_AddNewProjection.Designer.cs">
+      <DependentUpon>frm_AddNewProjection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_adSec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_adSec.Designer.cs">
+      <DependentUpon>frm_adSec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_AnatomyList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_AnatomyList.designer.cs">
+      <DependentUpon>frm_AnatomyList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_Anatomy_Projection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_Anatomy_Projection.designer.cs">
+      <DependentUpon>frm_Anatomy_Projection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_ChangePwd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_ChangePwd.designer.cs">
+      <DependentUpon>frm_ChangePwd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_ChooseAnatomy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_ChooseAnatomy.designer.cs">
+      <DependentUpon>frm_ChooseAnatomy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_ChooseProcedure4Config.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_ChooseProcedure4Config.designer.cs">
+      <DependentUpon>frm_ChooseProcedure4Config.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_ChooseProcedureList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_ChooseProcedureList.designer.cs">
+      <DependentUpon>frm_ChooseProcedureList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_ChooseProjection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_ChooseProjection.designer.cs">
+      <DependentUpon>frm_ChooseProjection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_Choose_Anatomy_Projection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_Choose_Anatomy_Projection.designer.cs">
+      <DependentUpon>frm_Choose_Anatomy_Projection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_CountryList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_CountryList.designer.cs">
+      <DependentUpon>frm_CountryList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_DeviceList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_DeviceList.designer.cs">
+      <DependentUpon>frm_DeviceList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_DoctorList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_DoctorList.designer.cs">
+      <DependentUpon>frm_DoctorList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_ImgAlgorithsmList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_ImgAlgorithsmList.Designer.cs">
+      <DependentUpon>frm_ImgAlgorithsmList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_ImgPropertiesConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_ImgPropertiesConfig.Designer.cs">
+      <DependentUpon>frm_ImgPropertiesConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_LargeMsgBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_LargeMsgBox.Designer.cs">
+      <DependentUpon>frm_LargeMsgBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_LargeMsgBoxOK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_LargeMsgBoxOK.Designer.cs">
+      <DependentUpon>frm_LargeMsgBoxOK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_ManufactureList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_ManufactureList.designer.cs">
+      <DependentUpon>frm_ManufactureList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_MapingExcelColumns.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_MapingExcelColumns.Designer.cs">
+      <DependentUpon>frm_MapingExcelColumns.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_Modalities.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_Modalities.designer.cs">
+      <DependentUpon>frm_Modalities.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_Mod_TypeList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_Mod_TypeList.designer.cs">
+      <DependentUpon>frm_Mod_TypeList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_ProcedureList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_ProcedureList.designer.cs">
+      <DependentUpon>frm_ProcedureList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_ProjectionList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_ProjectionList.designer.cs">
+      <DependentUpon>frm_ProjectionList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_QuickRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_QuickRegistration.designer.cs">
+      <DependentUpon>frm_QuickRegistration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_Registration.designer.cs">
+      <DependentUpon>frm_Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_ScheduleProperties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_ScheduleProperties.Designer.cs">
+      <DependentUpon>frm_ScheduleProperties.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_Server_List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_Server_List.designer.cs">
+      <DependentUpon>frm_Server_List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_UpdateHosInfor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_UpdateHosInfor.Designer.cs">
+      <DependentUpon>frm_UpdateHosInfor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\mdlStatic.cs" />
+    <Compile Include="Forms\OptionsDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Program.cs" />
+    <Compile Include="FPDSpec\Toshiba_New\CCondition.cs" />
+    <Compile Include="FPDSpec\Toshiba_New\CCorrectionPattern.cs" />
+    <Compile Include="FPDSpec\Toshiba_New\CInterfaceLower.cs" />
+    <Compile Include="FPDSpec\Toshiba_New\CLog.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reports\crpt_filmReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crpt_filmReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="Controls\AnatomyControl.resx">
+      <DependentUpon>AnatomyControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\OScheduledControl.resx">
+      <DependentUpon>OScheduledControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ProjectionControl.resx">
+      <DependentUpon>ProjectionControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ScheduledControl.resx">
+      <DependentUpon>ScheduledControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AboutBox1.resx">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DROC.resx">
+      <DependentUpon>DROC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDepartmentList.resx">
+      <DependentUpon>frmDepartmentList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmRoomList.resx">
+      <DependentUpon>frmRoomList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_AddNewAnatomy.resx">
+      <DependentUpon>frm_AddNewAnatomy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_AddnewConfig.resx">
+      <DependentUpon>frm_AddnewConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_AddNewProjection.resx">
+      <DependentUpon>frm_AddNewProjection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_adSec.resx">
+      <DependentUpon>frm_adSec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_AnatomyList.resx">
+      <DependentUpon>frm_AnatomyList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_Anatomy_Projection.resx">
+      <DependentUpon>frm_Anatomy_Projection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_ChangePwd.resx">
+      <DependentUpon>frm_ChangePwd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_ChooseAnatomy.resx">
+      <DependentUpon>frm_ChooseAnatomy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_ChooseProcedure4Config.resx">
+      <DependentUpon>frm_ChooseProcedure4Config.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_ChooseProcedureList.resx">
+      <DependentUpon>frm_ChooseProcedureList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_ChooseProjection.resx">
+      <DependentUpon>frm_ChooseProjection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_Choose_Anatomy_Projection.resx">
+      <DependentUpon>frm_Choose_Anatomy_Projection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_CountryList.resx">
+      <DependentUpon>frm_CountryList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_DeviceList.resx">
+      <DependentUpon>frm_DeviceList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_DoctorList.resx">
+      <DependentUpon>frm_DoctorList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_ImgAlgorithsmList.resx">
+      <DependentUpon>frm_ImgAlgorithsmList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_ImgPropertiesConfig.resx">
+      <DependentUpon>frm_ImgPropertiesConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_LargeMsgBox.resx">
+      <DependentUpon>frm_LargeMsgBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_LargeMsgBoxOK.resx">
+      <DependentUpon>frm_LargeMsgBoxOK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_ManufactureList.resx">
+      <DependentUpon>frm_ManufactureList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_MapingExcelColumns.resx">
+      <DependentUpon>frm_MapingExcelColumns.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_Modalities.resx">
+      <DependentUpon>frm_Modalities.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_Mod_TypeList.resx">
+      <DependentUpon>frm_Mod_TypeList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_ProcedureList.resx">
+      <DependentUpon>frm_ProcedureList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_ProjectionList.resx">
+      <DependentUpon>frm_ProjectionList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_QuickRegistration.resx">
+      <DependentUpon>frm_QuickRegistration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_Registration.resx">
+      <DependentUpon>frm_Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_ScheduleProperties.resx">
+      <DependentUpon>frm_ScheduleProperties.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_Server_List.resx">
+      <DependentUpon>frm_Server_List.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_UpdateHosInfor.resx">
+      <DependentUpon>frm_UpdateHosInfor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OptionsDialog.resx">
+      <DependentUpon>OptionsDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Reports\crpt_filmReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crpt_filmReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="Entities\CountryEntity.xsc">
+      <DependentUpon>CountryEntity.xsd</DependentUpon>
+    </None>
+    <None Include="Entities\CountryEntity.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CountryEntity.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Entities\CountryEntity.xss">
+      <DependentUpon>CountryEntity.xsd</DependentUpon>
+    </None>
+    <None Include="Entities\DepartmentEntity.xsc">
+      <DependentUpon>DepartmentEntity.xsd</DependentUpon>
+    </None>
+    <None Include="Entities\DepartmentEntity.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DepartmentEntity1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Entities\DepartmentEntity.xss">
+      <DependentUpon>DepartmentEntity.xsd</DependentUpon>
+    </None>
+    <None Include="Entities\DoctorEntity.xsc">
+      <DependentUpon>DoctorEntity.xsd</DependentUpon>
+    </None>
+    <None Include="Entities\DoctorEntity.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DoctorEntity1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Entities\DoctorEntity.xss">
+      <DependentUpon>DoctorEntity.xsd</DependentUpon>
+    </None>
+    <None Include="Entities\dsFilmReport.xsc">
+      <DependentUpon>dsFilmReport.xsd</DependentUpon>
+    </None>
+    <None Include="Entities\dsFilmReport.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsFilmReport1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Entities\dsFilmReport.xss">
+      <DependentUpon>dsFilmReport.xsd</DependentUpon>
+    </None>
+    <None Include="Entities\ManufactureEntity.xsc">
+      <DependentUpon>ManufactureEntity.xsd</DependentUpon>
+    </None>
+    <None Include="Entities\ManufactureEntity.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ManufactureEntity1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Entities\ManufactureEntity.xss">
+      <DependentUpon>ManufactureEntity.xsd</DependentUpon>
+    </None>
+    <None Include="Entities\ModalityEntity.xsc">
+      <DependentUpon>ModalityEntity.xsd</DependentUpon>
+    </None>
+    <None Include="Entities\ModalityEntity.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ModalityEntity1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Entities\ModalityEntity.xss">
+      <DependentUpon>ModalityEntity.xsd</DependentUpon>
+    </None>
+    <None Include="Entities\Mod_TypeEntity.xsc">
+      <DependentUpon>Mod_TypeEntity.xsd</DependentUpon>
+    </None>
+    <None Include="Entities\Mod_TypeEntity.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Mod_TypeEntity1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Entities\Mod_TypeEntity.xss">
+      <DependentUpon>Mod_TypeEntity.xsd</DependentUpon>
+    </None>
+    <None Include="Entities\PatientEntity.xsc">
+      <DependentUpon>PatientEntity.xsd</DependentUpon>
+    </None>
+    <None Include="Entities\PatientEntity.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PatientEntity1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Entities\PatientEntity.xss">
+      <DependentUpon>PatientEntity.xsd</DependentUpon>
+    </None>
+    <None Include="Entities\ProcedureEntity.xsc">
+      <DependentUpon>ProcedureEntity.xsd</DependentUpon>
+    </None>
+    <None Include="Entities\ProcedureEntity.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ProcedureEntity1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Entities\ProcedureEntity.xss">
+      <DependentUpon>ProcedureEntity.xsd</DependentUpon>
+    </None>
+    <None Include="Entities\RegDetailEntity.xsc">
+      <DependentUpon>RegDetailEntity.xsd</DependentUpon>
+    </None>
+    <None Include="Entities\RegDetailEntity.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>RegDetailEntity1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Entities\RegDetailEntity.xss">
+      <DependentUpon>RegDetailEntity.xsd</DependentUpon>
+    </None>
+    <None Include="Entities\RegEntity.xsc">
+      <DependentUpon>RegEntity.xsd</DependentUpon>
+    </None>
+    <None Include="Entities\RegEntity.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>RegEntity1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Entities\RegEntity.xss">
+      <DependentUpon>RegEntity.xsd</DependentUpon>
+    </None>
+    <None Include="Entities\RoomEntity.xsc">
+      <DependentUpon>RoomEntity.xsd</DependentUpon>
+    </None>
+    <None Include="Entities\RoomEntity.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>RoomEntity1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Entities\RoomEntity.xss">
+      <DependentUpon>RoomEntity.xsd</DependentUpon>
+    </None>
+    <None Include="Entities\ServerEntity.xsc">
+      <DependentUpon>ServerEntity.xsd</DependentUpon>
+    </None>
+    <None Include="Entities\ServerEntity.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ServerEntity1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Entities\ServerEntity.xss">
+      <DependentUpon>ServerEntity.xsd</DependentUpon>
+    </None>
+    <None Include="Forms\dsImgProperty.xsc">
+      <DependentUpon>dsImgProperty.xsd</DependentUpon>
+    </None>
+    <None Include="Forms\dsImgProperty.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsImgProperty1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Forms\dsImgProperty.xss">
+      <DependentUpon>dsImgProperty.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Forms\body3.ico" />
+    <Content Include="Forms\LADYBUG.ico" />
+    <Content Include="Forms\VBIT.ico" />
+    <Content Include="XRayIcon.ico" />
+    <Resource Include="Resources\window-minimize.png" />
+    <Resource Include="Resources\window-maximize.png" />
+    <Resource Include="Resources\TIME.PNG" />
+    <Resource Include="Resources\STOP.PNG" />
+    <Resource Include="Resources\sign-stop.png" />
+    <Resource Include="Resources\sign-alert.png" />
+    <Resource Include="Resources\SAVE.PNG" />
+    <Resource Include="Resources\RADAR.PNG" />
+    <Resource Include="Resources\PRINTER.PNG" />
+    <Resource Include="Resources\OK.PNG" />
+    <Resource Include="Resources\IMAC.PNG" />
+    <Resource Include="Resources\HELP.PNG" />
+    <Resource Include="Resources\FILE_NEW.PNG" />
+    <Resource Include="Resources\CORRECT.PNG" />
+    <Resource Include="Resources\BURN.PNG" />
+    <Resource Include="Resources\Ball %28Green%29.png" />
+    <Resource Include="Resources\ALARM.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DicomCommon\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

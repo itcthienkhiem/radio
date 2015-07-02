@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CreateKey", "CreateKey\CreateKey.vbproj", "{265D137C-97AB-45C9-A255-FAAD5647A26A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{265D137C-97AB-45C9-A255-FAAD5647A26A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{265D137C-97AB-45C9-A255-FAAD5647A26A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{265D137C-97AB-45C9-A255-FAAD5647A26A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{265D137C-97AB-45C9-A255-FAAD5647A26A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

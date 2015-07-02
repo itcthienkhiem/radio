@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="CountryEntity" targetNamespace="http://tempuri.org/CountryEntity.xsd" xmlns:mstns="http://tempuri.org/CountryEntity.xsd" xmlns="http://tempuri.org/CountryEntity.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="CountryEntity" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="CountryEntity" msprop:Generator_DataSetName="CountryEntity" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="CountryEntity" msprop:Generator_UserTableName="CountryEntity" msprop:Generator_RowDeletedName="CountryEntityRowDeleted" msprop:Generator_RowChangedName="CountryEntityRowChanged" msprop:Generator_RowClassName="CountryEntityRow" msprop:Generator_RowChangingName="CountryEntityRowChanging" msprop:Generator_RowEvArgName="CountryEntityRowChangeEvent" msprop:Generator_RowEvHandlerName="CountryEntityRowChangeEventHandler" msprop:Generator_TableClassName="CountryEntityDataTable" msprop:Generator_TableVarName="tableCountryEntity" msprop:Generator_RowDeletingName="CountryEntityRowDeleting" msprop:Generator_TablePropName="_CountryEntity">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Country_Code" msprop:Generator_UserColumnName="Country_Code" msprop:Generator_ColumnPropNameInRow="Country_Code" msprop:Generator_ColumnVarNameInTable="columnCountry_Code" msprop:Generator_ColumnPropNameInTable="Country_CodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Country_Name" msprop:Generator_UserColumnName="Country_Name" msprop:Generator_ColumnPropNameInRow="Country_Name" msprop:Generator_ColumnVarNameInTable="columnCountry_Name" msprop:Generator_ColumnPropNameInTable="Country_NameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Pos" msprop:Generator_UserColumnName="Pos" msprop:Generator_ColumnPropNameInRow="Pos" msprop:Generator_ColumnVarNameInTable="columnPos" msprop:Generator_ColumnPropNameInTable="PosColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="Desc" msprop:Generator_UserColumnName="Desc" msprop:Generator_ColumnPropNameInRow="Desc" msprop:Generator_ColumnVarNameInTable="columnDesc" msprop:Generator_ColumnPropNameInTable="DescColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="OldPos" msprop:Generator_UserColumnName="OldPos" msprop:Generator_ColumnVarNameInTable="columnOldPos" msprop:Generator_ColumnPropNameInRow="OldPos" msprop:Generator_ColumnPropNameInTable="OldPosColumn" type="xs:short" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

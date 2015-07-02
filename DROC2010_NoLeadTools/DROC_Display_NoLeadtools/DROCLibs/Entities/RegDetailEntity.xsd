@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="RegDetailEntity" targetNamespace="http://tempuri.org/RegDetailEntity.xsd" xmlns:mstns="http://tempuri.org/RegDetailEntity.xsd" xmlns="http://tempuri.org/RegDetailEntity.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="RegDetailEntity" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="RegDetailEntity" msprop:Generator_DataSetName="RegDetailEntity" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="RegDetailEntity" msprop:Generator_UserTableName="RegDetailEntity" msprop:Generator_RowDeletedName="RegDetailEntityRowDeleted" msprop:Generator_RowChangedName="RegDetailEntityRowChanged" msprop:Generator_RowClassName="RegDetailEntityRow" msprop:Generator_RowChangingName="RegDetailEntityRowChanging" msprop:Generator_RowEvArgName="RegDetailEntityRowChangeEvent" msprop:Generator_RowEvHandlerName="RegDetailEntityRowChangeEventHandler" msprop:Generator_TableClassName="RegDetailEntityDataTable" msprop:Generator_TableVarName="tableRegDetailEntity" msprop:Generator_RowDeletingName="RegDetailEntityRowDeleting" msprop:Generator_TablePropName="_RegDetailEntity">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DETAIL_ID" msprop:Generator_UserColumnName="DETAIL_ID" msprop:Generator_ColumnPropNameInRow="DETAIL_ID" msprop:Generator_ColumnVarNameInTable="columnDETAIL_ID" msprop:Generator_ColumnPropNameInTable="DETAIL_IDColumn" type="xs:long" minOccurs="0" />
+              <xs:element name="REG_ID" msprop:Generator_UserColumnName="REG_ID" msprop:Generator_ColumnPropNameInRow="REG_ID" msprop:Generator_ColumnVarNameInTable="columnREG_ID" msprop:Generator_ColumnPropNameInTable="REG_IDColumn" type="xs:long" minOccurs="0" />
+              <xs:element name="ANATOMY_CODE" msprop:Generator_UserColumnName="ANATOMY_CODE" msprop:Generator_ColumnPropNameInRow="ANATOMY_CODE" msprop:Generator_ColumnVarNameInTable="columnANATOMY_CODE" msprop:Generator_ColumnPropNameInTable="ANATOMY_CODEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="STATUS" msprop:Generator_UserColumnName="STATUS" msprop:Generator_ColumnPropNameInRow="STATUS" msprop:Generator_ColumnVarNameInTable="columnSTATUS" msprop:Generator_ColumnPropNameInTable="STATUSColumn" type="xs:unsignedByte" minOccurs="0" />
+              <xs:element name="IMGNAME" msprop:Generator_UserColumnName="IMGNAME" msprop:Generator_ColumnPropNameInRow="IMGNAME" msprop:Generator_ColumnVarNameInTable="columnIMGNAME" msprop:Generator_ColumnPropNameInTable="IMGNAMEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PROJECTION_CODE" msprop:Generator_UserColumnName="PROJECTION_CODE" msprop:Generator_ColumnVarNameInTable="columnPROJECTION_CODE" msprop:Generator_ColumnPropNameInRow="PROJECTION_CODE" msprop:Generator_ColumnPropNameInTable="PROJECTION_CODEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="BODYSIZE_CODE" msprop:Generator_UserColumnName="BODYSIZE_CODE" msprop:Generator_ColumnPropNameInRow="BODYSIZE_CODE" msprop:Generator_ColumnVarNameInTable="columnBODYSIZE_CODE" msprop:Generator_ColumnPropNameInTable="BODYSIZE_CODEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="StudyInstanceUID" msprop:Generator_UserColumnName="StudyInstanceUID" msprop:Generator_ColumnVarNameInTable="columnStudyInstanceUID" msprop:Generator_ColumnPropNameInRow="StudyInstanceUID" msprop:Generator_ColumnPropNameInTable="StudyInstanceUIDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SeriesInstanceUID" msprop:Generator_UserColumnName="SeriesInstanceUID" msprop:Generator_ColumnVarNameInTable="columnSeriesInstanceUID" msprop:Generator_ColumnPropNameInRow="SeriesInstanceUID" msprop:Generator_ColumnPropNameInTable="SeriesInstanceUIDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SOPInstanceUID" msprop:Generator_UserColumnName="SOPInstanceUID" msprop:Generator_ColumnVarNameInTable="columnSOPInstanceUID" msprop:Generator_ColumnPropNameInRow="SOPInstanceUID" msprop:Generator_ColumnPropNameInTable="SOPInstanceUIDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="UsingGrid" msprop:Generator_UserColumnName="UsingGrid" msprop:Generator_ColumnPropNameInRow="UsingGrid" msprop:Generator_ColumnVarNameInTable="columnUsingGrid" msprop:Generator_ColumnPropNameInTable="UsingGridColumn" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

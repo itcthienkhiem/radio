@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Mod_TypeEntity" targetNamespace="http://tempuri.org/Mod_TypeEntity.xsd" xmlns:mstns="http://tempuri.org/Mod_TypeEntity.xsd" xmlns="http://tempuri.org/Mod_TypeEntity.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Mod_TypeEntity" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="Mod_TypeEntity" msprop:Generator_UserDSName="Mod_TypeEntity" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Mod_TypeEntity" msprop:Generator_UserTableName="Mod_TypeEntity" msprop:Generator_RowDeletedName="Mod_TypeEntityRowDeleted" msprop:Generator_TableClassName="Mod_TypeEntityDataTable" msprop:Generator_RowChangedName="Mod_TypeEntityRowChanged" msprop:Generator_RowClassName="Mod_TypeEntityRow" msprop:Generator_RowChangingName="Mod_TypeEntityRowChanging" msprop:Generator_RowEvArgName="Mod_TypeEntityRowChangeEvent" msprop:Generator_RowEvHandlerName="Mod_TypeEntityRowChangeEventHandler" msprop:Generator_TablePropName="_Mod_TypeEntity" msprop:Generator_TableVarName="tableMod_TypeEntity" msprop:Generator_RowDeletingName="Mod_TypeEntityRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Mod_type_ID" msprop:Generator_UserColumnName="Mod_type_ID" msprop:Generator_ColumnPropNameInRow="Mod_type_ID" msprop:Generator_ColumnVarNameInTable="columnMod_type_ID" msprop:Generator_ColumnPropNameInTable="Mod_type_IDColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="Mod_type_Name" msprop:Generator_UserColumnName="Mod_type_Name" msprop:Generator_ColumnPropNameInRow="Mod_type_Name" msprop:Generator_ColumnVarNameInTable="columnMod_type_Name" msprop:Generator_ColumnPropNameInTable="Mod_type_NameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Mod_type_Code" msprop:Generator_UserColumnName="Mod_type_Code" msprop:Generator_ColumnPropNameInRow="Mod_type_Code" msprop:Generator_ColumnVarNameInTable="columnMod_type_Code" msprop:Generator_ColumnPropNameInTable="Mod_type_CodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="POS" msprop:Generator_UserColumnName="POS" msprop:Generator_ColumnPropNameInRow="POS" msprop:Generator_ColumnVarNameInTable="columnPOS" msprop:Generator_ColumnPropNameInTable="POSColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="OldPos" msprop:Generator_UserColumnName="OldPos" msprop:Generator_ColumnPropNameInRow="OldPos" msprop:Generator_ColumnVarNameInTable="columnOldPos" msprop:Generator_ColumnPropNameInTable="OldPosColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="Desc" msprop:Generator_UserColumnName="Desc" msprop:Generator_ColumnPropNameInRow="Desc" msprop:Generator_ColumnVarNameInTable="columnDesc" msprop:Generator_ColumnPropNameInTable="DescColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

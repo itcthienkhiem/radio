@@ -1,0 +1,117 @@
+G:\CreateKey\CreateKey\CreateKey\obj\Release\CreateKey.xml
+G:\CreateKey\CreateKey\CreateKey\obj\Release\CreateKey.pdb
+G:\CreateKey\CreateKey\CreateKey\bin\Release\CreateKey.exe
+G:\CreateKey\CreateKey\CreateKey\bin\Release\CreateKey.pdb
+G:\CreateKey\CreateKey\CreateKey\bin\Release\CreateKey.xml
+G:\CreateKey\CreateKey\CreateKey\obj\Release\ResolveAssemblyReference.cache
+G:\CreateKey\CreateKey\CreateKey\obj\Release\CreateKey.vbproj.GenerateResource.Cache
+F:\CreateKey\CreateKey\CreateKey\obj\Release\CreateKey.xml
+F:\CreateKey\CreateKey\CreateKey\obj\Release\CreateKey.pdb
+F:\CreateKey\CreateKey\CreateKey\obj\Release\ResolveAssemblyReference.cache
+F:\CreateKey\CreateKey\CreateKey\obj\Release\CreateKey.vbproj.GenerateResource.Cache
+F:\CreateKey\CreateKey\CreateKey\bin\Release\CreateKey.pdb
+F:\CreateKey\CreateKey\CreateKey\bin\Release\CreateKey.xml
+F:\CreateKey\CreateKey\CreateKey\bin\Release\Encrypt.dll
+F:\CreateKey\CreateKey\CreateKey\obj\Release\VBITJSC.CreateKey.resources
+F:\CreateKey\CreateKey\CreateKey\obj\Release\VBITJSC.Resources.resources
+F:\CreateKey\CreateKey\CreateKey\obj\Release\VBITJSC.RegKey.resources
+F:\CreateKey\CreateKey\CreateKey\bin\Debug\CreateKey.pdb
+F:\CreateKey\CreateKey\CreateKey\bin\Debug\CreateKey.xml
+F:\CreateKey\CreateKey\CreateKey\bin\Debug\Encrypt.dll
+F:\CreateKey\CreateKey\CreateKey\obj\Debug\ResolveAssemblyReference.cache
+F:\CreateKey\CreateKey\CreateKey\obj\Debug\VBITJSC.CreateKey.resources
+F:\CreateKey\CreateKey\CreateKey\obj\Debug\VBITJSC.Resources.resources
+F:\CreateKey\CreateKey\CreateKey\obj\Debug\VBITJSC.RegKey.resources
+F:\CreateKey\CreateKey\CreateKey\obj\Debug\CreateKey.vbproj.GenerateResource.Cache
+F:\CreateKey\CreateKey\CreateKey\obj\Debug\CreateKey.xml
+F:\CreateKey\CreateKey\CreateKey\obj\Debug\CreateKey.pdb
+F:\CreateKey\CreateKey\CreateKey\bin\Release\clsRegistry.dll
+D:\Projects\CreateKey\CreateKey\CreateKey\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\CreateKey\CreateKey\CreateKey\obj\Debug\VBITJSC.CreateKey.resources
+D:\Projects\CreateKey\CreateKey\CreateKey\obj\Debug\VBITJSC.Resources.resources
+D:\Projects\CreateKey\CreateKey\CreateKey\obj\Debug\VBITJSC.RegKey.resources
+D:\Projects\CreateKey\CreateKey\CreateKey\obj\Debug\CreateKey.vbproj.GenerateResource.Cache
+D:\Projects\CreateKey\CreateKey\CreateKey\obj\Debug\CreateKey.exe
+D:\Projects\CreateKey\CreateKey\CreateKey\obj\Debug\CreateKey.xml
+D:\Projects\CreateKey\CreateKey\CreateKey\obj\Debug\CreateKey.pdb
+F:\CreateKey\CreateKey\CreateKey\bin\Debug\CreateKey.exe
+F:\CreateKey\CreateKey\CreateKey\bin\Debug\clsRegistry.dll
+F:\CreateKey\CreateKey\CreateKey\obj\Debug\CreateKey.exe
+F:\CreateKey\CreateKey\CreateKey\bin\Release\CreateKey.exe
+F:\CreateKey\CreateKey\CreateKey\obj\Release\CreateKey.exe
+D:\Projects\CreateKey\CreateKey\CreateKey\bin\Debug\CreateKey.pdb
+D:\Projects\CreateKey\CreateKey\CreateKey\bin\Debug\CreateKey.xml
+D:\Projects\CreateKey\CreateKey\CreateKey\bin\Debug\clsRegistry.dll
+D:\Projects\CreateKey\CreateKey\CreateKey\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\CreateKey\CreateKey\CreateKey\obj\Release\VBITJSC.CreateKey.resources
+D:\Projects\CreateKey\CreateKey\CreateKey\obj\Release\VBITJSC.frm_CheckingKey.resources
+D:\Projects\CreateKey\CreateKey\CreateKey\obj\Release\VBITJSC.Resources.resources
+D:\Projects\CreateKey\CreateKey\CreateKey\obj\Release\VBITJSC.RegKey.resources
+D:\Projects\CreateKey\CreateKey\CreateKey\obj\Release\CreateKey.vbproj.GenerateResource.Cache
+D:\Projects\CreateKey\CreateKey\CreateKey\obj\Release\CreateKey.xml
+D:\Projects\CreateKey\CreateKey\CreateKey\obj\Release\CreateKey.pdb
+D:\Projects\CreateKey\CreateKey\CreateKey\obj\Debug\VBITJSC.frm_CheckingKey.resources
+D:\Projects\CreateKey\CreateKey\CreateKey\bin\Debug\CreateKey.dll
+D:\Projects\CreateKey\CreateKey\CreateKey\obj\Release\CreateKey.dll
+G:\CreateKey\CreateKey\CreateKey\bin\Debug\CreateKey.pdb
+G:\CreateKey\CreateKey\CreateKey\bin\Debug\CreateKey.xml
+G:\CreateKey\CreateKey\CreateKey\obj\Release\VBITJSC.CreateKey.resources
+G:\CreateKey\CreateKey\CreateKey\obj\Release\VBITJSC.frm_CheckingKey.resources
+G:\CreateKey\CreateKey\CreateKey\obj\Release\VBITJSC.Resources.resources
+G:\CreateKey\CreateKey\CreateKey\obj\Release\VBITJSC.RegKey.resources
+G:\CreateKey\CreateKey\CreateKey\obj\Debug\ResolveAssemblyReference.cache
+G:\CreateKey\CreateKey\CreateKey\obj\Debug\VBITJSC.CreateKey.resources
+G:\CreateKey\CreateKey\CreateKey\obj\Debug\VBITJSC.frm_CheckingKey.resources
+G:\CreateKey\CreateKey\CreateKey\obj\Debug\VBITJSC.Resources.resources
+G:\CreateKey\CreateKey\CreateKey\obj\Debug\VBITJSC.RegKey.resources
+G:\CreateKey\CreateKey\CreateKey\obj\Debug\CreateKey.vbproj.GenerateResource.Cache
+G:\CreateKey\CreateKey\CreateKey\obj\Debug\CreateKey.xml
+G:\CreateKey\CreateKey\CreateKey\obj\Debug\CreateKey.pdb
+G:\CreateKey\CreateKey\CreateKey\obj\Debug\CreateKey.exe
+G:\CreateKey\CreateKey\CreateKey\bin\Debug\CreateKey.dll
+G:\CreateKey\CreateKey\CreateKey\obj\Release\CreateKey.dll
+G:\Common Projects\CreateKey\CreateKey\CreateKey\bin\Debug\CreateKey.dll
+G:\Common Projects\CreateKey\CreateKey\CreateKey\bin\Debug\CreateKey.pdb
+G:\Common Projects\CreateKey\CreateKey\CreateKey\bin\Debug\CreateKey.xml
+G:\Common Projects\CreateKey\CreateKey\CreateKey\obj\Release\ResolveAssemblyReference.cache
+G:\Common Projects\CreateKey\CreateKey\CreateKey\obj\Release\VBITJSC.CreateKey.resources
+G:\Common Projects\CreateKey\CreateKey\CreateKey\obj\Release\VBITJSC.frm_CheckingKey.resources
+G:\Common Projects\CreateKey\CreateKey\CreateKey\obj\Release\VBITJSC.Resources.resources
+G:\Common Projects\CreateKey\CreateKey\CreateKey\obj\Release\VBITJSC.RegKey.resources
+G:\Common Projects\CreateKey\CreateKey\CreateKey\obj\Release\CreateKey.vbproj.GenerateResource.Cache
+G:\Common Projects\CreateKey\CreateKey\CreateKey\obj\Release\CreateKey.dll
+G:\Common Projects\CreateKey\CreateKey\CreateKey\obj\Release\CreateKey.xml
+G:\Common Projects\CreateKey\CreateKey\CreateKey\obj\Release\CreateKey.pdb
+E:\Common Projects\CreateKey\CreateKey\CreateKey\bin\Debug\CreateKey.dll
+E:\Common Projects\CreateKey\CreateKey\CreateKey\bin\Debug\CreateKey.pdb
+E:\Common Projects\CreateKey\CreateKey\CreateKey\bin\Debug\CreateKey.xml
+E:\Common Projects\CreateKey\CreateKey\CreateKey\obj\Release\ResolveAssemblyReference.cache
+E:\Common Projects\CreateKey\CreateKey\CreateKey\obj\Release\VBITJSC.CreateKey.resources
+E:\Common Projects\CreateKey\CreateKey\CreateKey\obj\Release\VBITJSC.frm_CheckingKey.resources
+E:\Common Projects\CreateKey\CreateKey\CreateKey\obj\Release\VBITJSC.Resources.resources
+E:\Common Projects\CreateKey\CreateKey\CreateKey\obj\Release\VBITJSC.RegKey.resources
+E:\Common Projects\CreateKey\CreateKey\CreateKey\obj\Release\CreateKey.vbproj.GenerateResource.Cache
+E:\Common Projects\CreateKey\CreateKey\CreateKey\obj\Release\CreateKey.dll
+E:\Common Projects\CreateKey\CreateKey\CreateKey\obj\Release\CreateKey.xml
+E:\Common Projects\CreateKey\CreateKey\CreateKey\obj\Release\CreateKey.pdb
+E:\Projects\VBIT\CommonProjects\CreateKey\CreateKey\CreateKey\bin\Debug\CreateKey.pdb
+E:\Projects\VBIT\CommonProjects\CreateKey\CreateKey\CreateKey\bin\Debug\CreateKey.xml
+E:\Projects\VBIT\CommonProjects\CreateKey\CreateKey\CreateKey\obj\Release\ResolveAssemblyReference.cache
+E:\Projects\VBIT\CommonProjects\CreateKey\CreateKey\CreateKey\obj\Release\VBITJSC.CreateKey.resources
+E:\Projects\VBIT\CommonProjects\CreateKey\CreateKey\CreateKey\obj\Release\VBITJSC.frm_CheckingKey.resources
+E:\Projects\VBIT\CommonProjects\CreateKey\CreateKey\CreateKey\obj\Release\VBITJSC.Resources.resources
+E:\Projects\VBIT\CommonProjects\CreateKey\CreateKey\CreateKey\obj\Release\VBITJSC.RegKey.resources
+E:\Projects\VBIT\CommonProjects\CreateKey\CreateKey\CreateKey\obj\Release\CreateKey.vbproj.GenerateResource.Cache
+E:\Projects\VBIT\CommonProjects\CreateKey\CreateKey\CreateKey\obj\Release\CreateKey.dll
+E:\Projects\VBIT\CommonProjects\CreateKey\CreateKey\CreateKey\obj\Release\CreateKey.xml
+E:\Projects\VBIT\CommonProjects\CreateKey\CreateKey\CreateKey\obj\Release\CreateKey.pdb
+E:\Projects\VBIT\CommonProjects\CreateKey\CreateKey\CreateKey\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\VBIT\CommonProjects\CreateKey\CreateKey\CreateKey\obj\Debug\VBITJSC.CreateKey.resources
+E:\Projects\VBIT\CommonProjects\CreateKey\CreateKey\CreateKey\obj\Debug\VBITJSC.frm_CheckingKey.resources
+E:\Projects\VBIT\CommonProjects\CreateKey\CreateKey\CreateKey\obj\Debug\VBITJSC.Resources.resources
+E:\Projects\VBIT\CommonProjects\CreateKey\CreateKey\CreateKey\obj\Debug\VBITJSC.RegKey.resources
+E:\Projects\VBIT\CommonProjects\CreateKey\CreateKey\CreateKey\obj\Debug\CreateKey.vbproj.GenerateResource.Cache
+E:\Projects\VBIT\CommonProjects\CreateKey\CreateKey\CreateKey\obj\Debug\CreateKey.xml
+E:\Projects\VBIT\CommonProjects\CreateKey\CreateKey\CreateKey\obj\Debug\CreateKey.pdb
+E:\Projects\VBIT\CommonProjects\CreateKey\CreateKey\CreateKey\obj\Debug\CreateKey.exe
+E:\Projects\VBIT\CommonProjects\CreateKey\CreateKey\CreateKey\bin\Debug\CreateKey.exe

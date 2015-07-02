@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ModalityEntity" targetNamespace="http://tempuri.org/ModalityEntity.xsd" xmlns:mstns="http://tempuri.org/ModalityEntity.xsd" xmlns="http://tempuri.org/ModalityEntity.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ModalityEntity" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="ModalityEntity" msprop:Generator_UserDSName="ModalityEntity">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ModalityEntity" msprop:Generator_UserTableName="ModalityEntity" msprop:Generator_RowEvArgName="ModalityEntityRowChangeEvent" msprop:Generator_TableVarName="tableModalityEntity" msprop:Generator_TablePropName="_ModalityEntity" msprop:Generator_RowDeletingName="ModalityEntityRowDeleting" msprop:Generator_RowChangingName="ModalityEntityRowChanging" msprop:Generator_RowDeletedName="ModalityEntityRowDeleted" msprop:Generator_TableClassName="ModalityEntityDataTable" msprop:Generator_RowChangedName="ModalityEntityRowChanged" msprop:Generator_RowEvHandlerName="ModalityEntityRowChangeEventHandler" msprop:Generator_RowClassName="ModalityEntityRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Modality_ID" msprop:Generator_ColumnVarNameInTable="columnModality_ID" msprop:Generator_ColumnPropNameInRow="Modality_ID" msprop:Generator_ColumnPropNameInTable="Modality_IDColumn" msprop:Generator_UserColumnName="Modality_ID" type="xs:short" minOccurs="0" />
+              <xs:element name="Modality_Code" msprop:Generator_ColumnVarNameInTable="columnModality_Code" msprop:Generator_ColumnPropNameInRow="Modality_Code" msprop:Generator_ColumnPropNameInTable="Modality_CodeColumn" msprop:Generator_UserColumnName="Modality_Code" type="xs:string" minOccurs="0" />
+              <xs:element name="Country_ID" msprop:Generator_ColumnVarNameInTable="columnCountry_ID" msprop:Generator_ColumnPropNameInRow="Country_ID" msprop:Generator_ColumnPropNameInTable="Country_IDColumn" msprop:Generator_UserColumnName="Country_ID" type="xs:string" minOccurs="0" />
+              <xs:element name="Country_Name" msprop:Generator_ColumnVarNameInTable="columnCountry_Name" msprop:Generator_ColumnPropNameInRow="Country_Name" msprop:Generator_ColumnPropNameInTable="Country_NameColumn" msprop:Generator_UserColumnName="Country_Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Manufacture_ID" msprop:Generator_ColumnVarNameInTable="columnManufacture_ID" msprop:Generator_ColumnPropNameInRow="Manufacture_ID" msprop:Generator_ColumnPropNameInTable="Manufacture_IDColumn" msprop:Generator_UserColumnName="Manufacture_ID" type="xs:short" minOccurs="0" />
+              <xs:element name="Manufacture_Name" msprop:Generator_ColumnVarNameInTable="columnManufacture_Name" msprop:Generator_ColumnPropNameInRow="Manufacture_Name" msprop:Generator_ColumnPropNameInTable="Manufacture_NameColumn" msprop:Generator_UserColumnName="Manufacture_Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Room_ID" msprop:Generator_ColumnVarNameInTable="columnRoom_ID" msprop:Generator_ColumnPropNameInRow="Room_ID" msprop:Generator_ColumnPropNameInTable="Room_IDColumn" msprop:Generator_UserColumnName="Room_ID" type="xs:short" minOccurs="0" />
+              <xs:element name="Room_Name" msprop:Generator_ColumnVarNameInTable="columnRoom_Name" msprop:Generator_ColumnPropNameInRow="Room_Name" msprop:Generator_ColumnPropNameInTable="Room_NameColumn" msprop:Generator_UserColumnName="Room_Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Mod_Type_ID" msprop:Generator_ColumnVarNameInTable="columnMod_Type_ID" msprop:Generator_ColumnPropNameInRow="Mod_Type_ID" msprop:Generator_ColumnPropNameInTable="Mod_Type_IDColumn" msprop:Generator_UserColumnName="Mod_Type_ID" type="xs:short" minOccurs="0" />
+              <xs:element name="Mod_Type_Name" msprop:Generator_ColumnVarNameInTable="columnMod_Type_Name" msprop:Generator_ColumnPropNameInRow="Mod_Type_Name" msprop:Generator_ColumnPropNameInTable="Mod_Type_NameColumn" msprop:Generator_UserColumnName="Mod_Type_Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Pos" msprop:Generator_ColumnVarNameInTable="columnPos" msprop:Generator_ColumnPropNameInRow="Pos" msprop:Generator_ColumnPropNameInTable="PosColumn" msprop:Generator_UserColumnName="Pos" type="xs:short" minOccurs="0" />
+              <xs:element name="Modality_Name" msprop:Generator_ColumnVarNameInTable="columnModality_Name" msprop:Generator_ColumnPropNameInRow="Modality_Name" msprop:Generator_ColumnPropNameInTable="Modality_NameColumn" msprop:Generator_UserColumnName="Modality_Name" type="xs:string" minOccurs="0" />
+              <xs:element name="OldPos" msprop:Generator_ColumnVarNameInTable="columnOldPos" msprop:Generator_ColumnPropNameInRow="OldPos" msprop:Generator_ColumnPropNameInTable="OldPosColumn" msprop:Generator_UserColumnName="OldPos" type="xs:short" minOccurs="0" />
+              <xs:element name="IP_ADDRESS" msprop:Generator_ColumnVarNameInTable="columnIP_ADDRESS" msprop:Generator_ColumnPropNameInRow="IP_ADDRESS" msprop:Generator_ColumnPropNameInTable="IP_ADDRESSColumn" msprop:Generator_UserColumnName="IP_ADDRESS" type="xs:string" minOccurs="0" />
+              <xs:element name="PORT_NUM" msprop:Generator_ColumnVarNameInTable="columnPORT_NUM" msprop:Generator_ColumnPropNameInRow="PORT_NUM" msprop:Generator_ColumnPropNameInTable="PORT_NUMColumn" msprop:Generator_UserColumnName="PORT_NUM" type="xs:short" minOccurs="0" />
+              <xs:element name="STATUS" msprop:Generator_ColumnVarNameInTable="columnSTATUS" msprop:Generator_ColumnPropNameInRow="STATUS" msprop:Generator_ColumnPropNameInTable="STATUSColumn" msprop:Generator_UserColumnName="STATUS" type="xs:unsignedByte" minOccurs="0" />
+              <xs:element name="DEVICE_WORKLIST" msprop:Generator_ColumnVarNameInTable="columnDEVICE_WORKLIST" msprop:Generator_ColumnPropNameInRow="DEVICE_WORKLIST" msprop:Generator_ColumnPropNameInTable="DEVICE_WORKLISTColumn" msprop:Generator_UserColumnName="DEVICE_WORKLIST" type="xs:unsignedByte" minOccurs="0" />
+              <xs:element name="AE_TITLE" msprop:Generator_ColumnVarNameInTable="columnAE_TITLE" msprop:Generator_ColumnPropNameInRow="AE_TITLE" msprop:Generator_ColumnPropNameInTable="AE_TITLEColumn" msprop:Generator_UserColumnName="AE_TITLE" type="xs:string" minOccurs="0" />
+              <xs:element name="RESTRICTION" msprop:Generator_ColumnVarNameInTable="columnRESTRICTION" msprop:Generator_ColumnPropNameInRow="RESTRICTION" msprop:Generator_ColumnPropNameInTable="RESTRICTIONColumn" msprop:Generator_UserColumnName="RESTRICTION" type="xs:string" minOccurs="0" />
+              <xs:element name="Desc" msprop:Generator_ColumnVarNameInTable="columnDesc" msprop:Generator_ColumnPropNameInRow="Desc" msprop:Generator_ColumnPropNameInTable="DescColumn" msprop:Generator_UserColumnName="Desc" type="xs:string" minOccurs="0" />
+              <xs:element name="IMGH" msprop:Generator_ColumnVarNameInTable="columnIMGH" msprop:Generator_ColumnPropNameInRow="IMGH" msprop:Generator_ColumnPropNameInTable="IMGHColumn" msprop:Generator_UserColumnName="IMGH" type="xs:int" minOccurs="0" />
+              <xs:element name="IMGW" msprop:Generator_ColumnVarNameInTable="columnIMGW" msprop:Generator_ColumnPropNameInRow="IMGW" msprop:Generator_ColumnPropNameInTable="IMGWColumn" msprop:Generator_UserColumnName="IMGW" type="xs:int" minOccurs="0" />
+              <xs:element name="LOW" msprop:Generator_ColumnVarNameInTable="columnLOW" msprop:Generator_ColumnPropNameInRow="LOW" msprop:Generator_ColumnPropNameInTable="LOWColumn" msprop:Generator_UserColumnName="LOW" type="xs:int" minOccurs="0" />
+              <xs:element name="HIGH" msprop:Generator_ColumnVarNameInTable="columnHIGH" msprop:Generator_ColumnPropNameInRow="HIGH" msprop:Generator_ColumnPropNameInTable="HIGHColumn" msprop:Generator_UserColumnName="HIGH" type="xs:int" minOccurs="0" />
+              <xs:element name="STARTCOLOR" msprop:Generator_ColumnVarNameInTable="columnSTARTCOLOR" msprop:Generator_ColumnPropNameInRow="STARTCOLOR" msprop:Generator_ColumnPropNameInTable="STARTCOLORColumn" msprop:Generator_UserColumnName="STARTCOLOR" type="xs:string" minOccurs="0" />
+              <xs:element name="ENDCOLOR" msprop:Generator_ColumnVarNameInTable="columnENDCOLOR" msprop:Generator_ColumnPropNameInRow="ENDCOLOR" msprop:Generator_ColumnPropNameInTable="ENDCOLORColumn" msprop:Generator_UserColumnName="ENDCOLOR" type="xs:string" minOccurs="0" />
+              <xs:element name="RANGE" msprop:Generator_ColumnVarNameInTable="columnRANGE" msprop:Generator_ColumnPropNameInRow="RANGE" msprop:Generator_ColumnPropNameInTable="RANGEColumn" msprop:Generator_UserColumnName="RANGE" type="xs:string" minOccurs="0" />
+              <xs:element name="AUTO_FLIPV" msdata:Caption="AUTO_FLIPH" msprop:Generator_ColumnVarNameInTable="columnAUTO_FLIPV" msprop:Generator_ColumnPropNameInRow="AUTO_FLIPV" msprop:Generator_ColumnPropNameInTable="AUTO_FLIPVColumn" msprop:Generator_UserColumnName="AUTO_FLIPV" type="xs:int" minOccurs="0" />
+              <xs:element name="AUTO_FLIPH" msprop:Generator_ColumnVarNameInTable="columnAUTO_FLIPH" msprop:Generator_ColumnPropNameInRow="AUTO_FLIPH" msprop:Generator_ColumnPropNameInTable="AUTO_FLIPHColumn" msprop:Generator_UserColumnName="AUTO_FLIPH" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CreateKey">
+</Property><Property Name="Solution File" Value="D:\VBITProjects\MeViewer\CreateKey\CreateKey\CreateKey.sln">
+</Property><Property Name="User Options File" Value="D:\VBITProjects\MeViewer\CreateKey\CreateKey\CreateKey.suo">
+</Property><Property Name="Date" Value="30/06/2013">
+</Property><Property Name="Time" Value="16:54 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CreateKey.sln" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey.sln">
+</Event><Event ErrorLevel="0" Project="" Source="CreateKey.suo" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey.suo">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\CreateKey.vbproj" Description="Project file successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\CreateKey.vbproj">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\CreateKey.vbproj.user" Description="Project user file successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\CreateKey.vbproj.user">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\ApplicationEvents.vb" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\ApplicationEvents.vb">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\MCreateKey.Designer.vb" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\MCreateKey.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\MCreateKey.vb" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\MCreateKey.vb">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\MHardKey.vb" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\MHardKey.vb">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\MFlashScreen.Designer.vb" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\MFlashScreen.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\MFlashScreen.vb" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\MFlashScreen.vb">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\MRegister.Designer.vb" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\MRegister.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\MRegister.vb" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\MRegister.vb">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\frm_CheckCode.Designer.vb" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\frm_CheckCode.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\frm_CheckCode.vb" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\frm_CheckCode.vb">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\Form1.vb" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\Form1.vb">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\Form1.Designer.vb" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\frm_CheckingKey.Designer.vb" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\frm_CheckingKey.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\frm_CheckingKey.vb" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\frm_CheckingKey.vb">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\HardKey.vb" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\HardKey.vb">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\My Project\Application.Designer.vb" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\My Project\Resources.Designer.vb" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\My Project\Settings.Designer.vb" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\RegConfiguration.vb" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\RegConfiguration.vb">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\Register.Designer.vb" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\Register.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\Register.vb" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\Register.vb">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\Utils.vb" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\Utils.vb">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\ClassDiagram1.cd" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\My Project\Application.myapp" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\My Project\Settings.settings" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\1348021777_Flash Disk.ico" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\1348021777_Flash Disk.ico">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\1352187929_application-pgp-signature.ico" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\1352187929_application-pgp-signature.ico">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\54.ico" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\54.ico">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\LADYBUG.ico" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\LADYBUG.ico">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\MCreateKey.resx" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\MCreateKey.resx">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\MFlashScreen.resx" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\MFlashScreen.resx">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\MRegister.resx" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\MRegister.resx">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\frm_CheckCode.resx" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\frm_CheckCode.resx">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\Form1.resx" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\Form1.resx">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\frm_CheckingKey.resx" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\frm_CheckingKey.resx">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\My Project\Resources.resx" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\Register.resx" Description="File successfully backed up as D:\VBITProjects\MeViewer\CreateKey\CreateKey\Backup1\CreateKey\Register.resx">
+</Event><Event ErrorLevel="0" Project="CreateKey" Source="CreateKey\CreateKey.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="CreateKey" Source="CreateKey\CreateKey.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="CreateKey.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CreateKey.sln" Description="Converted">
+</Event></UpgradeLog>
