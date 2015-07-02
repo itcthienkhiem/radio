@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Config>
+    <SERVERADDRESS>192.168.1.254</SERVERADDRESS>
+    <DATABASE_ID>RIS_GTVT</DATABASE_ID>
+    <USERNAME>sa</USERNAME>
+    <PASSWORD>vietbaitsql2011</PASSWORD>
+    <BranchID>THAIHA</BranchID>
+    <LANGUAGEDISPLAY>VN</LANGUAGEDISPLAY>
+    <INTERFACEDISPLAY>DOCKING</INTERFACEDISPLAY>
+  </Config>
+</NewDataSet>

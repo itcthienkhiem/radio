@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{173121F5-D3D1-4DC9-89DE-97E895981C1D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VIETBAIT.ImageServer.Models</RootNamespace>
+    <AssemblyName>VIETBAIT.ImageServer.Models</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DeepSeaObfuscate>false</DeepSeaObfuscate>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\_BIN\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="SubSonic, Version=2.1.1.0, Culture=neutral, PublicKeyToken=eadb47849839a332, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\library\SubSonic.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Generated\Alert.cs" />
+    <Compile Include="Generated\AlertCategoryEnum.cs" />
+    <Compile Include="Generated\AlertCategoryEnumController.cs" />
+    <Compile Include="Generated\AlertController.cs" />
+    <Compile Include="Generated\AlertLevelEnum.cs" />
+    <Compile Include="Generated\AlertLevelEnumController.cs" />
+    <Compile Include="Generated\AllStructs.cs" />
+    <Compile Include="Generated\ApplicationLog.cs" />
+    <Compile Include="Generated\ApplicationLogController.cs" />
+    <Compile Include="Generated\ArchiveQueue.cs" />
+    <Compile Include="Generated\ArchiveQueueController.cs" />
+    <Compile Include="Generated\ArchiveQueueStatusEnum.cs" />
+    <Compile Include="Generated\ArchiveQueueStatusEnumController.cs" />
+    <Compile Include="Generated\ArchiveStudyStorage.cs" />
+    <Compile Include="Generated\ArchiveStudyStorageController.cs" />
+    <Compile Include="Generated\ArchiveTypeEnum.cs" />
+    <Compile Include="Generated\ArchiveTypeEnumController.cs" />
+    <Compile Include="Generated\CannedText.cs" />
+    <Compile Include="Generated\CannedTextController.cs" />
+    <Compile Include="Generated\DatabaseVersion.cs" />
+    <Compile Include="Generated\DatabaseVersionController.cs" />
+    <Compile Include="Generated\Device.cs" />
+    <Compile Include="Generated\DeviceController.cs" />
+    <Compile Include="Generated\DevicePreferredTransferSyntax.cs" />
+    <Compile Include="Generated\DevicePreferredTransferSyntaxController.cs" />
+    <Compile Include="Generated\DeviceTypeEnum.cs" />
+    <Compile Include="Generated\DeviceTypeEnumController.cs" />
+    <Compile Include="Generated\DuplicateSopPolicyEnum.cs" />
+    <Compile Include="Generated\DuplicateSopPolicyEnumController.cs" />
+    <Compile Include="Generated\Filesystem.cs" />
+    <Compile Include="Generated\FilesystemController.cs" />
+    <Compile Include="Generated\FilesystemQueue.cs" />
+    <Compile Include="Generated\FilesystemQueueController.cs" />
+    <Compile Include="Generated\FilesystemQueueTypeEnum.cs" />
+    <Compile Include="Generated\FilesystemQueueTypeEnumController.cs" />
+    <Compile Include="Generated\FilesystemStudyStorage.cs" />
+    <Compile Include="Generated\FilesystemStudyStorageController.cs" />
+    <Compile Include="Generated\FilesystemTierEnum.cs" />
+    <Compile Include="Generated\FilesystemTierEnumController.cs" />
+    <Compile Include="Generated\PartitionArchive.cs" />
+    <Compile Include="Generated\PartitionArchiveController.cs" />
+    <Compile Include="Generated\PartitionSopClass.cs" />
+    <Compile Include="Generated\PartitionSopClassController.cs" />
+    <Compile Include="Generated\PartitionTransferSyntax.cs" />
+    <Compile Include="Generated\PartitionTransferSyntaxController.cs" />
+    <Compile Include="Generated\Patient.cs" />
+    <Compile Include="Generated\PatientController.cs" />
+    <Compile Include="Generated\QueueStudyStateEnum.cs" />
+    <Compile Include="Generated\QueueStudyStateEnumController.cs" />
+    <Compile Include="Generated\RequestAttribute.cs" />
+    <Compile Include="Generated\RequestAttributeController.cs" />
+    <Compile Include="Generated\RestoreQueue.cs" />
+    <Compile Include="Generated\RestoreQueueController.cs" />
+    <Compile Include="Generated\RestoreQueueStatusEnum.cs" />
+    <Compile Include="Generated\RestoreQueueStatusEnumController.cs" />
+    <Compile Include="Generated\Series.cs" />
+    <Compile Include="Generated\SeriesController.cs" />
+    <Compile Include="Generated\ServerPartition.cs" />
+    <Compile Include="Generated\ServerPartitionController.cs" />
+    <Compile Include="Generated\ServerRule.cs" />
+    <Compile Include="Generated\ServerRuleApplyTimeEnum.cs" />
+    <Compile Include="Generated\ServerRuleApplyTimeEnumController.cs" />
+    <Compile Include="Generated\ServerRuleController.cs" />
+    <Compile Include="Generated\ServerRuleTypeEnum.cs" />
+    <Compile Include="Generated\ServerRuleTypeEnumController.cs" />
+    <Compile Include="Generated\ServerSopClass.cs" />
+    <Compile Include="Generated\ServerSopClassController.cs" />
+    <Compile Include="Generated\ServerTransferSyntax.cs" />
+    <Compile Include="Generated\ServerTransferSyntaxController.cs" />
+    <Compile Include="Generated\ServiceLock.cs" />
+    <Compile Include="Generated\ServiceLockController.cs" />
+    <Compile Include="Generated\ServiceLockTypeEnum.cs" />
+    <Compile Include="Generated\ServiceLockTypeEnumController.cs" />
+    <Compile Include="Generated\StoredProcedures.cs" />
+    <Compile Include="Generated\Study.cs" />
+    <Compile Include="Generated\StudyController.cs" />
+    <Compile Include="Generated\StudyDeleteRecord.cs" />
+    <Compile Include="Generated\StudyDeleteRecordController.cs" />
+    <Compile Include="Generated\StudyHistory.cs" />
+    <Compile Include="Generated\StudyHistoryController.cs" />
+    <Compile Include="Generated\StudyHistoryTypeEnum.cs" />
+    <Compile Include="Generated\StudyHistoryTypeEnumController.cs" />
+    <Compile Include="Generated\StudyIntegrityQueue.cs" />
+    <Compile Include="Generated\StudyIntegrityQueueController.cs" />
+    <Compile Include="Generated\StudyIntegrityQueueUid.cs" />
+    <Compile Include="Generated\StudyIntegrityQueueUidController.cs" />
+    <Compile Include="Generated\StudyIntegrityReasonEnum.cs" />
+    <Compile Include="Generated\StudyIntegrityReasonEnumController.cs" />
+    <Compile Include="Generated\StudyStatusEnum.cs" />
+    <Compile Include="Generated\StudyStatusEnumController.cs" />
+    <Compile Include="Generated\StudyStorage.cs" />
+    <Compile Include="Generated\StudyStorageController.cs" />
+    <Compile Include="Generated\WorkQueue.cs" />
+    <Compile Include="Generated\WorkQueueController.cs" />
+    <Compile Include="Generated\WorkQueuePriorityEnum.cs" />
+    <Compile Include="Generated\WorkQueuePriorityEnumController.cs" />
+    <Compile Include="Generated\WorkQueueStatusEnum.cs" />
+    <Compile Include="Generated\WorkQueueStatusEnumController.cs" />
+    <Compile Include="Generated\WorkQueueTypeEnum.cs" />
+    <Compile Include="Generated\WorkQueueTypeEnumController.cs" />
+    <Compile Include="Generated\WorkQueueTypeProperty.cs" />
+    <Compile Include="Generated\WorkQueueTypePropertyController.cs" />
+    <Compile Include="Generated\WorkQueueUid.cs" />
+    <Compile Include="Generated\WorkQueueUidController.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\DeepSea Obfuscator\v3\DeepSea.Obfuscator.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties BuildVersion_UseGlobalSettings="True" />
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

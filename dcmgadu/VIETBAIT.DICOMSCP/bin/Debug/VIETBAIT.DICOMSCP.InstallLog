@@ -1,0 +1,26 @@
+﻿Installing assembly 'D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\VIETBAIT.DICOMSCP.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\VIETBAIT.DICOMSCP.exe
+   logfile = D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\VIETBAIT.DICOMSCP.InstallLog
+Installing service VietBa Dicom Store...
+Service VietBa Dicom Store has been successfully installed.
+Creating EventLog source VietBa Dicom Store in log Application...
+Committing assembly 'D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\VIETBAIT.DICOMSCP.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\VIETBAIT.DICOMSCP.exe
+   logfile = D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\VIETBAIT.DICOMSCP.InstallLog
+Installing assembly 'D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\VIETBAIT.DICOMSCP.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\VIETBAIT.DICOMSCP.exe
+   logfile = D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\VIETBAIT.DICOMSCP.InstallLog
+Installing service VietBa Dicom Store...
+Service VietBa Dicom Store has been successfully installed.
+Creating EventLog source VietBa Dicom Store in log Application...
+Committing assembly 'D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\VIETBAIT.DICOMSCP.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\VIETBAIT.DICOMSCP.exe
+   logfile = D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\VIETBAIT.DICOMSCP.InstallLog

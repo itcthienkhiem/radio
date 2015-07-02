@@ -1,0 +1,10 @@
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMPDU\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMPDU\obj\Debug\VIETBAIT.DICOMPDU.Resources.resources
+D:\Projects\Dicom\source\trunk\VIETBAIT.WORKLIST\bin\Debug\VIETBAIT.DICOMPDU.dll
+D:\Projects\Dicom\source\trunk\VIETBAIT.WORKLIST\bin\Debug\VIETBAIT.DICOMPDU.pdb
+D:\Projects\Dicom\source\trunk\VIETBAIT.WORKLIST\bin\Debug\VIETBAIT.DICOMPDU.xml
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMPDU\obj\Debug\VIETBAIT.DICOMPDU.dll
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMPDU\obj\Debug\VIETBAIT.DICOMPDU.xml
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMPDU\obj\Debug\VIETBAIT.DICOMPDU.pdb
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMPDU\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMPDU\obj\Debug\GenerateResource-ResGen.write.1.tlog

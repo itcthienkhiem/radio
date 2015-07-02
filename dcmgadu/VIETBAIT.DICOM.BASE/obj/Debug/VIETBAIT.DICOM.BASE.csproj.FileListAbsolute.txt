@@ -1,0 +1,5 @@
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOM.BASE\bin\Debug\VIETBAIT.DICOM.BASE.dll
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOM.BASE\bin\Debug\VIETBAIT.DICOM.BASE.pdb
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOM.BASE\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOM.BASE\obj\Debug\VIETBAIT.DICOM.BASE.dll
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOM.BASE\obj\Debug\VIETBAIT.DICOM.BASE.pdb

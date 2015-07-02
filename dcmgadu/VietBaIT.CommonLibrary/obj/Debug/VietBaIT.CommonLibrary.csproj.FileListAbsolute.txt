@@ -1,0 +1,13 @@
+D:\Projects\Dicom\source\trunk\VietBaIT.CommonLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Dicom\source\trunk\VietBaIT.CommonLibrary\obj\Debug\VietBaIT.CommonLibrary.BaseForm.resources
+D:\Projects\Dicom\source\trunk\VietBaIT.CommonLibrary\obj\Debug\VietBaIT.CommonLibrary.GridOptions.resources
+D:\Projects\Dicom\source\trunk\VietBaIT.CommonLibrary\obj\Debug\GridViewUtils.GridviewOption.resources
+D:\Projects\Dicom\source\trunk\VietBaIT.CommonLibrary\obj\Debug\VietBaIT.CommonLibrary.Processing.resources
+D:\Projects\Dicom\source\trunk\VietBaIT.CommonLibrary\obj\Debug\VietBaIT.CommonLibrary.Properties.Resources.resources
+D:\Projects\Dicom\source\trunk\VietBaIT.CommonLibrary\obj\Debug\VietBaIT.CommonLibrary.SearchOnGridView.resources
+D:\Projects\Dicom\source\Debug\VietBaIT.CommonLibrary.dll
+D:\Projects\Dicom\source\Debug\VietBaIT.CommonLibrary.pdb
+D:\Projects\Dicom\source\trunk\VietBaIT.CommonLibrary\obj\Debug\VietBaIT.CommonLibrary.dll
+D:\Projects\Dicom\source\trunk\VietBaIT.CommonLibrary\obj\Debug\VietBaIT.CommonLibrary.pdb
+D:\Projects\Dicom\source\trunk\VietBaIT.CommonLibrary\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\Dicom\source\trunk\VietBaIT.CommonLibrary\obj\Debug\GenerateResource-ResGen.write.1.tlog

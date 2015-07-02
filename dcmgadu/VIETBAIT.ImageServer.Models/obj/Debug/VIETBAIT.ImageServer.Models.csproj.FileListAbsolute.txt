@@ -1,0 +1,7 @@
+D:\Projects\Dicom\source\trunk\VIETBAIT.ImageServer.Models\bin\Debug\VIETBAIT.ImageServer.Models.dll.config
+D:\Projects\Dicom\source\trunk\VIETBAIT.ImageServer.Models\bin\Debug\VIETBAIT.ImageServer.Models.dll
+D:\Projects\Dicom\source\trunk\VIETBAIT.ImageServer.Models\bin\Debug\VIETBAIT.ImageServer.Models.pdb
+D:\Projects\Dicom\source\trunk\VIETBAIT.ImageServer.Models\bin\Debug\SubSonic.dll
+D:\Projects\Dicom\source\trunk\VIETBAIT.ImageServer.Models\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Dicom\source\trunk\VIETBAIT.ImageServer.Models\obj\Debug\VIETBAIT.ImageServer.Models.dll
+D:\Projects\Dicom\source\trunk\VIETBAIT.ImageServer.Models\obj\Debug\VIETBAIT.ImageServer.Models.pdb

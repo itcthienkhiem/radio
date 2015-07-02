@@ -1,0 +1,108 @@
+﻿Installing assembly 'G:\PROJECT\ClearCanvas\VIETBAIT.WORKLIST\VietBaRIS\bin\Debug\VIETBAIT.WORKLIST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\PROJECT\ClearCanvas\VIETBAIT.WORKLIST\VietBaRIS\bin\Debug\VIETBAIT.WORKLIST.exe
+   logfile = G:\PROJECT\ClearCanvas\VIETBAIT.WORKLIST\VietBaRIS\bin\Debug\VIETBAIT.WORKLIST.InstallLog
+Installing service VietBa Dicom Worklist...
+Service VietBa Dicom Worklist has been successfully installed.
+Creating EventLog source VietBa Dicom Worklist in log Application...
+Committing assembly 'G:\PROJECT\ClearCanvas\VIETBAIT.WORKLIST\VietBaRIS\bin\Debug\VIETBAIT.WORKLIST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\PROJECT\ClearCanvas\VIETBAIT.WORKLIST\VietBaRIS\bin\Debug\VIETBAIT.WORKLIST.exe
+   logfile = G:\PROJECT\ClearCanvas\VIETBAIT.WORKLIST\VietBaRIS\bin\Debug\VIETBAIT.WORKLIST.InstallLog
+Installing assembly 'G:\PROJECT\ClearCanvas\VIETBAIT.WORKLIST\VietBaRIS\bin\Debug\VIETBAIT.WORKLIST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\PROJECT\ClearCanvas\VIETBAIT.WORKLIST\VietBaRIS\bin\Debug\VIETBAIT.WORKLIST.exe
+   logfile = G:\PROJECT\ClearCanvas\VIETBAIT.WORKLIST\VietBaRIS\bin\Debug\VIETBAIT.WORKLIST.InstallLog
+Installing service VietBa Dicom Worklist...
+Service VietBa Dicom Worklist has been successfully installed.
+Creating EventLog source VietBa Dicom Worklist in log Application...
+Committing assembly 'G:\PROJECT\ClearCanvas\VIETBAIT.WORKLIST\VietBaRIS\bin\Debug\VIETBAIT.WORKLIST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\PROJECT\ClearCanvas\VIETBAIT.WORKLIST\VietBaRIS\bin\Debug\VIETBAIT.WORKLIST.exe
+   logfile = G:\PROJECT\ClearCanvas\VIETBAIT.WORKLIST\VietBaRIS\bin\Debug\VIETBAIT.WORKLIST.InstallLog
+Installing assembly 'G:\PROJECT\ClearCanvas\VIETBAIT.WORKLIST\VietBaRIS\bin\Debug\VIETBAIT.WORKLIST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\PROJECT\ClearCanvas\VIETBAIT.WORKLIST\VietBaRIS\bin\Debug\VIETBAIT.WORKLIST.exe
+   logfile = G:\PROJECT\ClearCanvas\VIETBAIT.WORKLIST\VietBaRIS\bin\Debug\VIETBAIT.WORKLIST.InstallLog
+Installing service VietBa Dicom Worklist...
+Service VietBa Dicom Worklist has been successfully installed.
+Creating EventLog source VietBa Dicom Worklist in log Application...
+Committing assembly 'G:\PROJECT\ClearCanvas\VIETBAIT.WORKLIST\VietBaRIS\bin\Debug\VIETBAIT.WORKLIST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\PROJECT\ClearCanvas\VIETBAIT.WORKLIST\VietBaRIS\bin\Debug\VIETBAIT.WORKLIST.exe
+   logfile = G:\PROJECT\ClearCanvas\VIETBAIT.WORKLIST\VietBaRIS\bin\Debug\VIETBAIT.WORKLIST.InstallLog
+Installing assembly 'G:\PROJECT\ClearCanvas\VIETBAIT.WORKLIST\VietBaRIS\bin\Debug\VIETBAIT.WORKLIST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\PROJECT\ClearCanvas\VIETBAIT.WORKLIST\VietBaRIS\bin\Debug\VIETBAIT.WORKLIST.exe
+   logfile = G:\PROJECT\ClearCanvas\VIETBAIT.WORKLIST\VietBaRIS\bin\Debug\VIETBAIT.WORKLIST.InstallLog
+Installing service VietBa Dicom Worklist...
+Service VietBa Dicom Worklist has been successfully installed.
+Creating EventLog source VietBa Dicom Worklist in log Application...
+Committing assembly 'G:\PROJECT\ClearCanvas\VIETBAIT.WORKLIST\VietBaRIS\bin\Debug\VIETBAIT.WORKLIST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\PROJECT\ClearCanvas\VIETBAIT.WORKLIST\VietBaRIS\bin\Debug\VIETBAIT.WORKLIST.exe
+   logfile = G:\PROJECT\ClearCanvas\VIETBAIT.WORKLIST\VietBaRIS\bin\Debug\VIETBAIT.WORKLIST.InstallLog
+Uninstalling assembly 'G:\PROJECT\ClearCanvas\VIETBAIT.WORKLIST\VietBaRIS\bin\Debug\VIETBAIT.WORKLIST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\PROJECT\ClearCanvas\VIETBAIT.WORKLIST\VietBaRIS\bin\Debug\VIETBAIT.WORKLIST.exe
+   logfile = G:\PROJECT\ClearCanvas\VIETBAIT.WORKLIST\VietBaRIS\bin\Debug\VIETBAIT.WORKLIST.InstallLog
+Removing EventLog source VietBa Dicom Worklist.
+Service VietBa Dicom Worklist is being removed from the system...
+Service VietBa Dicom Worklist was successfully removed from the system.
+Attempt to stop service VietBa Dicom Worklist.
+Installing assembly 'D:\Projects\_Vietbait Dicom Solution\VIETBAIT.WORKLIST\bin\Debug\VIETBAIT.WORKLIST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\_Vietbait Dicom Solution\VIETBAIT.WORKLIST\bin\Debug\VIETBAIT.WORKLIST.exe
+   logfile = D:\Projects\_Vietbait Dicom Solution\VIETBAIT.WORKLIST\bin\Debug\VIETBAIT.WORKLIST.InstallLog
+Installing service VietBa Dicom Worklist...
+Service VietBa Dicom Worklist has been successfully installed.
+Creating EventLog source VietBa Dicom Worklist in log Application...
+Committing assembly 'D:\Projects\_Vietbait Dicom Solution\VIETBAIT.WORKLIST\bin\Debug\VIETBAIT.WORKLIST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\_Vietbait Dicom Solution\VIETBAIT.WORKLIST\bin\Debug\VIETBAIT.WORKLIST.exe
+   logfile = D:\Projects\_Vietbait Dicom Solution\VIETBAIT.WORKLIST\bin\Debug\VIETBAIT.WORKLIST.InstallLog
+Uninstalling assembly 'D:\Projects\_Vietbait Dicom Solution\VIETBAIT.WORKLIST\bin\Debug\VIETBAIT.WORKLIST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\_Vietbait Dicom Solution\VIETBAIT.WORKLIST\bin\Debug\VIETBAIT.WORKLIST.exe
+   logfile = D:\Projects\_Vietbait Dicom Solution\VIETBAIT.WORKLIST\bin\Debug\VIETBAIT.WORKLIST.InstallLog
+Removing EventLog source VietBa Dicom Worklist.
+Service VietBa Dicom Worklist is being removed from the system...
+Service VietBa Dicom Worklist was successfully removed from the system.
+Installing assembly 'D:\Projects\Dicom\source\trunk\VIETBAIT.WORKLIST\bin\Debug\VIETBAIT.WORKLIST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\Dicom\source\trunk\VIETBAIT.WORKLIST\bin\Debug\VIETBAIT.WORKLIST.exe
+   logfile = D:\Projects\Dicom\source\trunk\VIETBAIT.WORKLIST\bin\Debug\VIETBAIT.WORKLIST.InstallLog
+Installing service VietBa Dicom Worklist...
+Service VietBa Dicom Worklist has been successfully installed.
+Creating EventLog source VietBa Dicom Worklist in log Application...
+Committing assembly 'D:\Projects\Dicom\source\trunk\VIETBAIT.WORKLIST\bin\Debug\VIETBAIT.WORKLIST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\Dicom\source\trunk\VIETBAIT.WORKLIST\bin\Debug\VIETBAIT.WORKLIST.exe
+   logfile = D:\Projects\Dicom\source\trunk\VIETBAIT.WORKLIST\bin\Debug\VIETBAIT.WORKLIST.InstallLog
+Installing assembly 'D:\Projects\Dicom\source\trunk\VIETBAIT.WORKLIST\bin\Debug\VIETBAIT.WORKLIST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\Dicom\source\trunk\VIETBAIT.WORKLIST\bin\Debug\VIETBAIT.WORKLIST.exe
+   logfile = D:\Projects\Dicom\source\trunk\VIETBAIT.WORKLIST\bin\Debug\VIETBAIT.WORKLIST.InstallLog
+Installing service VietBa Dicom Worklist...
+Service VietBa Dicom Worklist has been successfully installed.
+Creating EventLog source VietBa Dicom Worklist in log Application...
+Committing assembly 'D:\Projects\Dicom\source\trunk\VIETBAIT.WORKLIST\bin\Debug\VIETBAIT.WORKLIST.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\Dicom\source\trunk\VIETBAIT.WORKLIST\bin\Debug\VIETBAIT.WORKLIST.exe
+   logfile = D:\Projects\Dicom\source\trunk\VIETBAIT.WORKLIST\bin\Debug\VIETBAIT.WORKLIST.InstallLog

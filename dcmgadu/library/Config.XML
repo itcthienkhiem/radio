@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Config>
+    <SERVERADDRESS>192.168.1.254</SERVERADDRESS>
+    <DATABASE_ID>RISLINK_DB</DATABASE_ID>
+    <USERNAME>hislink</USERNAME>
+    <PASSWORD>hislink</PASSWORD>
+    <BranchID>RIS</BranchID>
+    <LANGUAGEDISPLAY>VN</LANGUAGEDISPLAY>
+    <INTERFACEDISPLAY>DOCKING</INTERFACEDISPLAY>
+    <LOCALALIAS />
+  </Config>
+</NewDataSet>

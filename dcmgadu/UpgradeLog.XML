@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Vietba.Dicom">
+</Property><Property Name="Solution File" Value="D:\Projects\Dicom\source\trunk\Vietba.Dicom.sln">
+</Property><Property Name="Date" Value="27/12/2012">
+</Property><Property Name="Time" Value="17:39 PM">
+</Property></Properties><Event ErrorLevel="0" Project="VIETBAIT.DICOMSCP" Source="VIETBAIT.DICOMSCP\VIETBAIT.DICOMSCP.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="VIETBAIT.DICOMSCP" Source="VIETBAIT.DICOMSCP\VIETBAIT.DICOMSCP.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.DICOMSERVER.SERVERCONFIG" Source="VIETBAIT.DICOMSERVER.SERVERMANAGER\VIETBAIT.DICOMSERVER.SERVERCONFIG.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="VIETBAIT.DICOMSERVER.SERVERCONFIG" Source="VIETBAIT.DICOMSERVER.SERVERMANAGER\VIETBAIT.DICOMSERVER.SERVERCONFIG.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.ImageServer.Models" Source="VIETBAIT.ImageServer.Models\VIETBAIT.ImageServer.Models.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="VIETBAIT.ImageServer.Models" Source="VIETBAIT.ImageServer.Models\VIETBAIT.ImageServer.Models.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.WORKLIST" Source="VIETBAIT.WORKLIST\VIETBAIT.WORKLIST.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="VIETBAIT.WORKLIST" Source="VIETBAIT.WORKLIST\VIETBAIT.WORKLIST.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.DICOMPDU" Source="VIETBAIT.DICOMPDU\VIETBAIT.DICOMPDU.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="VIETBAIT.DICOMPDU" Source="VIETBAIT.DICOMPDU\VIETBAIT.DICOMPDU.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.AASSOCIATE" Source="VIETBAIT.AASSOCIATE\VIETBAIT.AASSOCIATE.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="VIETBAIT.AASSOCIATE" Source="VIETBAIT.AASSOCIATE\VIETBAIT.AASSOCIATE.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.DICOMPrint" Source="VIETBAIT.DICOMPrint\VIETBAIT.DICOMPrint.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="VIETBAIT.DICOMPrint" Source="VIETBAIT.DICOMPrint\VIETBAIT.DICOMPrint.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.DICOMHelper" Source="VIETBAIT.DICOMHelper\VIETBAIT.DICOMHelper.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="VIETBAIT.DICOMHelper" Source="VIETBAIT.DICOMHelper\VIETBAIT.DICOMHelper.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.DICOM.DIMSE_N" Source="VIETBAIT.DICOM.DIMSE_N\VIETBAIT.DICOM.DIMSE_N.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="VIETBAIT.DICOM.DIMSE_N" Source="VIETBAIT.DICOM.DIMSE_N\VIETBAIT.DICOM.DIMSE_N.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.DICOM.DIMSE-N" Source="VIETBAIT.DICOM.DIMSE-N\VIETBAIT.DICOM.DIMSE-N.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="VIETBAIT.DICOM.DIMSE-N" Source="VIETBAIT.DICOM.DIMSE-N\VIETBAIT.DICOM.DIMSE-N.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.DICOM.BASE" Source="VIETBAIT.DICOM.BASE\VIETBAIT.DICOM.BASE.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="VIETBAIT.DICOM.BASE" Source="VIETBAIT.DICOM.BASE\VIETBAIT.DICOM.BASE.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="VietBaIT.RISLink.Business.NghiepVu" Source="VietBaIT.RISLink.Business.NghiepVu\VietBaIT.RISLink.Business.NghiepVu.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="VietBaIT.RISLink.Business.NghiepVu" Source="VietBaIT.RISLink.Business.NghiepVu\VietBaIT.RISLink.Business.NghiepVu.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="VietBaIT.RISLink.DataAccessLayer" Source="VietBaIT.RISLink.DataAccessLayer\VietBaIT.RISLink.DataAccessLayer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="VietBaIT.RISLink.DataAccessLayer" Source="VietBaIT.RISLink.DataAccessLayer\VietBaIT.RISLink.DataAccessLayer.csproj" Description="Converted">
+</Event><Event ErrorLevel="4" Project="VietBaIT.CommonLibrary" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="Warning: this project requires Crystal Reports, which is no longer included with Visual Studio. Please click here for more information.">
+</Event><Event ErrorLevel="0" Project="VietBaIT.CommonLibrary" Source="VietBaIT.CommonLibrary\VietBaIT.CommonLibrary.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="VietBaIT.CommonLibrary" Source="VietBaIT.CommonLibrary\VietBaIT.CommonLibrary.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Vietba.Dicom.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Vietba.Dicom.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.DICOMSCP" Source="VIETBAIT.DICOMSCP\VIETBAIT.DICOMSCP.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.DICOMSERVER.SERVERCONFIG" Source="VIETBAIT.DICOMSERVER.SERVERMANAGER\VIETBAIT.DICOMSERVER.SERVERCONFIG.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.ImageServer.Models" Source="VIETBAIT.ImageServer.Models\VIETBAIT.ImageServer.Models.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.WORKLIST" Source="VIETBAIT.WORKLIST\VIETBAIT.WORKLIST.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.DICOMPDU" Source="VIETBAIT.DICOMPDU\VIETBAIT.DICOMPDU.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.AASSOCIATE" Source="VIETBAIT.AASSOCIATE\VIETBAIT.AASSOCIATE.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.DICOMPrint" Source="VIETBAIT.DICOMPrint\VIETBAIT.DICOMPrint.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.DICOMHelper" Source="VIETBAIT.DICOMHelper\VIETBAIT.DICOMHelper.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.DICOM.DIMSE_N" Source="VIETBAIT.DICOM.DIMSE_N\VIETBAIT.DICOM.DIMSE_N.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.DICOM.DIMSE-N" Source="VIETBAIT.DICOM.DIMSE-N\VIETBAIT.DICOM.DIMSE-N.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.DICOM.BASE" Source="VIETBAIT.DICOM.BASE\VIETBAIT.DICOM.BASE.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="VietBaIT.RISLink.Business.NghiepVu" Source="VietBaIT.RISLink.Business.NghiepVu\VietBaIT.RISLink.Business.NghiepVu.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="VietBaIT.RISLink.DataAccessLayer" Source="VietBaIT.RISLink.DataAccessLayer\VietBaIT.RISLink.DataAccessLayer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="VietBaIT.CommonLibrary" Source="VietBaIT.CommonLibrary\VietBaIT.CommonLibrary.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

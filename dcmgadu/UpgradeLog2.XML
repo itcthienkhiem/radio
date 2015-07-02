@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Vietba.Dicom">
+</Property><Property Name="Solution File" Value="C:\Users\hadk\Desktop\New folder (3)\Copy of Dicom\source\trunk\Vietba.Dicom.sln">
+</Property><Property Name="Date" Value="01/07/2015">
+</Property><Property Name="Time" Value="11:06 AM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="VIETBAIT.DICOMSCP" Source="VIETBAIT.DICOMSCP\VIETBAIT.DICOMSCP.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="VIETBAIT.DICOMSCP" Source="VIETBAIT.DICOMSCP\VIETBAIT.DICOMSCP.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.DICOMSERVER.SERVERCONFIG" Source="VIETBAIT.DICOMSERVER.SERVERMANAGER\VIETBAIT.DICOMSERVER.SERVERCONFIG.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="VIETBAIT.DICOMSERVER.SERVERCONFIG" Source="VIETBAIT.DICOMSERVER.SERVERMANAGER\VIETBAIT.DICOMSERVER.SERVERCONFIG.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.ImageServer.Models" Source="VIETBAIT.ImageServer.Models\VIETBAIT.ImageServer.Models.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="VIETBAIT.ImageServer.Models" Source="VIETBAIT.ImageServer.Models\VIETBAIT.ImageServer.Models.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.WORKLIST" Source="VIETBAIT.WORKLIST\VIETBAIT.WORKLIST.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="VIETBAIT.WORKLIST" Source="VIETBAIT.WORKLIST\VIETBAIT.WORKLIST.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.DICOMPDU" Source="VIETBAIT.DICOMPDU\VIETBAIT.DICOMPDU.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="VIETBAIT.DICOMPDU" Source="VIETBAIT.DICOMPDU\VIETBAIT.DICOMPDU.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.AASSOCIATE" Source="VIETBAIT.AASSOCIATE\VIETBAIT.AASSOCIATE.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="VIETBAIT.AASSOCIATE" Source="VIETBAIT.AASSOCIATE\VIETBAIT.AASSOCIATE.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.DICOMPrint" Source="VIETBAIT.DICOMPrint\VIETBAIT.DICOMPrint.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="VIETBAIT.DICOMPrint" Source="VIETBAIT.DICOMPrint\VIETBAIT.DICOMPrint.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.DICOMHelper" Source="VIETBAIT.DICOMHelper\VIETBAIT.DICOMHelper.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="VIETBAIT.DICOMHelper" Source="VIETBAIT.DICOMHelper\VIETBAIT.DICOMHelper.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.DICOM.DIMSE_N" Source="VIETBAIT.DICOM.DIMSE_N\VIETBAIT.DICOM.DIMSE_N.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="VIETBAIT.DICOM.DIMSE_N" Source="VIETBAIT.DICOM.DIMSE_N\VIETBAIT.DICOM.DIMSE_N.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.DICOM.DIMSE-N" Source="VIETBAIT.DICOM.DIMSE-N\VIETBAIT.DICOM.DIMSE-N.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="VIETBAIT.DICOM.DIMSE-N" Source="VIETBAIT.DICOM.DIMSE-N\VIETBAIT.DICOM.DIMSE-N.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="VIETBAIT.DICOM.BASE" Source="VIETBAIT.DICOM.BASE\VIETBAIT.DICOM.BASE.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="VIETBAIT.DICOM.BASE" Source="VIETBAIT.DICOM.BASE\VIETBAIT.DICOM.BASE.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="VietBaIT.RISLink.Business.NghiepVu" Source="VietBaIT.RISLink.Business.NghiepVu\VietBaIT.RISLink.Business.NghiepVu.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="VietBaIT.RISLink.Business.NghiepVu" Source="VietBaIT.RISLink.Business.NghiepVu\VietBaIT.RISLink.Business.NghiepVu.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="VietBaIT.RISLink.DataAccessLayer" Source="VietBaIT.RISLink.DataAccessLayer\VietBaIT.RISLink.DataAccessLayer.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="VietBaIT.RISLink.DataAccessLayer" Source="VietBaIT.RISLink.DataAccessLayer\VietBaIT.RISLink.DataAccessLayer.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="VietBaIT.CommonLibrary" Source="VietBaIT.CommonLibrary\VietBaIT.CommonLibrary.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="VietBaIT.CommonLibrary" Source="VietBaIT.CommonLibrary\VietBaIT.CommonLibrary.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Vietba.Dicom.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="Vietba.Dicom.sln" Description="No Conversion Required">
+</Event></UpgradeLog>

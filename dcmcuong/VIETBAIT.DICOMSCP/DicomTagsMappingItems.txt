@@ -1,0 +1,23 @@
+﻿ServerPartitionGUID
+StudyStorageGUID
+PatientId = PatientId
+PatientsName = PatientsName
+IssuerOfPatientId = IssuerOfPatientId
+StudyInstanceUid = StudyInstanceUid
+PatientsBirthDate = PatientsBirthDate
+PatientsSex = PatientsSex
+StudyDate = StudyDate
+StudyTime = StudyTime
+AccessionNumber = AccessionNumber
+StudyId = StudyId
+StudyDescription = StudyDescription
+ReferringPhysiciansName = ReferringPhysiciansName
+SeriesInstanceUid = SeriesInstanceUid
+Modality = Modality
+SeriesNumber = SeriesNumber
+SeriesDescription = SeriesDescription
+PerformedProcedureStepStartDate = PerformedProcedureStepStartDate
+PerformedProcedureStepStartTime = PerformedProcedureStepStartTime
+SourceApplicationEntityTitle = SourceApplicationEntityTitle
+SpecificCharacterSet = SpecificCharacterSet
+PatientsAge = PatientsAge

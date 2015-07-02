@@ -1,0 +1,6 @@
+D:\Projects\Dicom\source\trunk\VietBaIT.RISLink.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files\VietBaIT\VietBaIT Dicom Store\VietBaIT.RISLink.DataAccessLayer.dll.config
+C:\Program Files\VietBaIT\VietBaIT Dicom Store\VietBaIT.RISLink.DataAccessLayer.dll
+C:\Program Files\VietBaIT\VietBaIT Dicom Store\VietBaIT.RISLink.DataAccessLayer.pdb
+D:\Projects\Dicom\source\trunk\VietBaIT.RISLink.DataAccessLayer\obj\Debug\VietBaIT.RISLink.DataAccessLayer.dll
+D:\Projects\Dicom\source\trunk\VietBaIT.RISLink.DataAccessLayer\obj\Debug\VietBaIT.RISLink.DataAccessLayer.pdb

@@ -1,0 +1,36 @@
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\VIETBAIT.DICOMSCP.exe.config
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\NLog.config
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\VIETBAIT.DICOMSCP.exe
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\VIETBAIT.DICOMSCP.pdb
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\NLog.dll
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\VIETBAIT.CONFIG.dll
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\VIETBAIT.ImageServer.Models.dll
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\nunit.framework.dll
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\VIETBAIT.ImageServer.Models.pdb
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\obj\Debug\VIETBAIT.DICOMSCP.ProjectInstaller.resources
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\obj\Debug\VIETBAIT.DICOMSCP.DicomStoreService.resources
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\obj\Debug\VIETBAIT.DICOMSCP.exe
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\obj\Debug\VIETBAIT.DICOMSCP.pdb
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\log4net.dll
+C:\Program Files\VietBaIT\VietBaIT Dicom Store\NLog.config
+C:\Program Files\VietBaIT\VietBaIT Dicom Store\VIETBAIT.DICOMSCP.exe.config
+C:\Program Files\VietBaIT\VietBaIT Dicom Store\VIETBAIT.DICOMSCP.exe
+C:\Program Files\VietBaIT\VietBaIT Dicom Store\VIETBAIT.DICOMSCP.pdb
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\VietBaIT.CommonLibrary.dll
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\VietBaIT.RISLink.Business.NghiepVu.dll
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\VietBaIT.RISLink.DataAccessLayer.dll
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\Mabry.Barcode.dll
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\DAL.dll
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\Mabry.Core.dll
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\VietBaIT.RISLink.DataAccessLayer.pdb
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\VietBaIT.RISLink.Business.NghiepVu.pdb
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\bin\Debug\VietBaIT.CommonLibrary.pdb
+D:\Projects\Dicom\library\NLog.config
+D:\Projects\Dicom\library\VIETBAIT.DICOMSCP.exe.config
+D:\Projects\Dicom\library\VIETBAIT.DICOMSCP.exe
+D:\Projects\Dicom\library\VIETBAIT.DICOMSCP.pdb
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\obj\Debug\GenerateResource.read.1.tlog
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSCP\obj\Debug\GenerateResource.write.1.tlog

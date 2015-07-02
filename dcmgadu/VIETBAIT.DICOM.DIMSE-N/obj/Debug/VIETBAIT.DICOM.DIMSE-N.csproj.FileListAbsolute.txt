@@ -1,0 +1,12 @@
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOM.DIMSE-N\bin\Debug\VIETBAIT.DICOM.DIMSE-N.dll
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOM.DIMSE-N\bin\Debug\VIETBAIT.DICOM.DIMSE-N.pdb
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOM.DIMSE-N\bin\Debug\VIETBAIT.DICOMHelper.dll
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOM.DIMSE-N\bin\Debug\VIETBAIT.DICOMPDU.dll
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOM.DIMSE-N\bin\Debug\VIETBAIT.DICOMPDU.pdb
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOM.DIMSE-N\bin\Debug\VIETBAIT.DICOMPDU.xml
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOM.DIMSE-N\bin\Debug\VIETBAIT.DICOMHelper.pdb
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOM.DIMSE-N\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOM.DIMSE-N\obj\Debug\VIETBAIT.DICOM.DIMSE-N.dll
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOM.DIMSE-N\obj\Debug\VIETBAIT.DICOM.DIMSE-N.pdb
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOM.DIMSE-N\bin\Debug\VIETBAIT.DICOM.BASE.dll
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOM.DIMSE-N\bin\Debug\VIETBAIT.DICOM.BASE.pdb

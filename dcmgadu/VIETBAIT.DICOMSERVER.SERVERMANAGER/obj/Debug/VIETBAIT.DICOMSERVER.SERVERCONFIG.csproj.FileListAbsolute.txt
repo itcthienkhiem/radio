@@ -1,0 +1,17 @@
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSERVER.SERVERMANAGER\bin\Debug\VIETBAIT.DICOMSERVER.SERVERMANAGER.exe.config
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSERVER.SERVERMANAGER\bin\Debug\VIETBAIT.DICOMSERVER.SERVERMANAGER.exe
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSERVER.SERVERMANAGER\bin\Debug\VIETBAIT.DICOMSERVER.SERVERMANAGER.pdb
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSERVER.SERVERMANAGER\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSERVER.SERVERMANAGER\bin\Debug\SubSonic.dll
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSERVER.SERVERMANAGER\bin\Debug\Vietbait.Config.dll
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSERVER.SERVERMANAGER\bin\Debug\VIETBAIT.ImageServer.Models.dll
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSERVER.SERVERMANAGER\bin\Debug\VIETBAIT.ImageServer.Models.pdb
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSERVER.SERVERMANAGER\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSERVER.SERVERMANAGER\obj\Debug\VIETBAIT.DICOMSERVER.SERVERMANAGER.FrmMainConfig.resources
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSERVER.SERVERMANAGER\obj\Debug\VIETBAIT.DICOMSERVER.SERVERMANAGER.Properties.Resources.resources
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSERVER.SERVERMANAGER\obj\Debug\VIETBAIT.DICOMSERVER.SERVERCONFIG.csproj.GenerateResource.Cache
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSERVER.SERVERMANAGER\obj\Debug\VIETBAIT.DICOMSERVER.SERVERMANAGER.exe
+D:\Projects\Dicom\source\trunk\VIETBAIT.DICOMSERVER.SERVERMANAGER\obj\Debug\VIETBAIT.DICOMSERVER.SERVERMANAGER.pdb
+C:\Program Files\VietBaIT\VietBaIT Dicom Store\VIETBAIT.DICOMSERVER.SERVERMANAGER.exe.config
+C:\Program Files\VietBaIT\VietBaIT Dicom Store\VIETBAIT.DICOMSERVER.SERVERMANAGER.exe
+C:\Program Files\VietBaIT\VietBaIT Dicom Store\VIETBAIT.DICOMSERVER.SERVERMANAGER.pdb

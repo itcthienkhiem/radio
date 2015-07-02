@@ -1,0 +1,5 @@
+D:\Projects\Dicom\source\trunk\VietBaIT.RISLink.Business.NghiepVu\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files\VietBaIT\VietBaIT Dicom Store\VietBaIT.RISLink.Business.NghiepVu.dll
+C:\Program Files\VietBaIT\VietBaIT Dicom Store\VietBaIT.RISLink.Business.NghiepVu.pdb
+D:\Projects\Dicom\source\trunk\VietBaIT.RISLink.Business.NghiepVu\obj\Debug\VietBaIT.RISLink.Business.NghiepVu.dll
+D:\Projects\Dicom\source\trunk\VietBaIT.RISLink.Business.NghiepVu\obj\Debug\VietBaIT.RISLink.Business.NghiepVu.pdb

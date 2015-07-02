@@ -1,0 +1,1 @@
+ // The class DatabaseVersion was not generated because DatabaseVersion_ does not have a primary key.

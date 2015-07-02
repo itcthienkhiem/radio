@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3501576B-90AA-4BCD-B555-1055682574FF}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VietBaIT.RISLink.DataAccessLayer</RootNamespace>
+    <AssemblyName>VietBaIT.RISLink.DataAccessLayer</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\library\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Data_Sync Only|AnyCPU' ">
+    <OutputPath>bin\Data_Sync Only\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="SubSonic, Version=2.1.1.0, Culture=neutral, PublicKeyToken=eadb47849839a332, processorArchitecture=MSIL">
+      <HintPath>..\..\..\library\SubSonic.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Generated\AllStructs.cs" />
+    <Compile Include="Generated\BBaocao.cs" />
+    <Compile Include="Generated\BBaocaoController.cs" />
+    <Compile Include="Generated\BThamsoBaocao.cs" />
+    <Compile Include="Generated\BThamsoBaocaoController.cs" />
+    <Compile Include="Generated\DDichVu.cs" />
+    <Compile Include="Generated\DDichVuController.cs" />
+    <Compile Include="Generated\DDmucChung.cs" />
+    <Compile Include="Generated\DDmucChungController.cs" />
+    <Compile Include="Generated\DDoiTuong.cs" />
+    <Compile Include="Generated\DDoiTuongController.cs" />
+    <Compile Include="Generated\DDtuongDvu.cs" />
+    <Compile Include="Generated\DDtuongDvuController.cs" />
+    <Compile Include="Generated\DDviDchinh.cs" />
+    <Compile Include="Generated\DDviDchinhController.cs" />
+    <Compile Include="Generated\DDviTinh.cs" />
+    <Compile Include="Generated\DDviTinhController.cs" />
+    <Compile Include="Generated\DKieuDmucChung.cs" />
+    <Compile Include="Generated\DKieuDmucChungController.cs" />
+    <Compile Include="Generated\DLoaiDvu.cs" />
+    <Compile Include="Generated\DLoaiDvuController.cs" />
+    <Compile Include="Generated\DMaDieuKhienThietBi.cs" />
+    <Compile Include="Generated\DMaDieuKhienThietBiController.cs" />
+    <Compile Include="Generated\DNhanVien.cs" />
+    <Compile Include="Generated\DNhanVienController.cs" />
+    <Compile Include="Generated\DNhomDvu.cs" />
+    <Compile Include="Generated\DNhomDvuController.cs" />
+    <Compile Include="Generated\DPbanThietbi.cs" />
+    <Compile Include="Generated\DPbanThietbiController.cs" />
+    <Compile Include="Generated\DPhongBan.cs" />
+    <Compile Include="Generated\DPhongBanController.cs" />
+    <Compile Include="Generated\DThietBi.cs" />
+    <Compile Include="Generated\DThietBiController.cs" />
+    <Compile Include="Generated\DVungKsat.cs" />
+    <Compile Include="Generated\DVungKsatController.cs" />
+    <Compile Include="Generated\ErrorLog.cs" />
+    <Compile Include="Generated\ErrorLogController.cs" />
+    <Compile Include="Generated\KetnoiBenhNhan.cs" />
+    <Compile Include="Generated\KetnoiDichvu.cs" />
+    <Compile Include="Generated\KetnoiMappingDichvu.cs" />
+    <Compile Include="Generated\KetnoiPhieuChidinh.cs" />
+    <Compile Include="Generated\RisBenhNhan.cs" />
+    <Compile Include="Generated\RisBenhNhanController.cs" />
+    <Compile Include="Generated\RisLuuAnh.cs" />
+    <Compile Include="Generated\RisLuuAnhController.cs" />
+    <Compile Include="Generated\RisPhieuCdinh.cs" />
+    <Compile Include="Generated\RisPhieuCdinhController.cs" />
+    <Compile Include="Generated\RisPhieuCdinhCtiet.cs" />
+    <Compile Include="Generated\RisPhieuCdinhCtietController.cs" />
+    <Compile Include="Generated\StoredProcedures.cs" />
+    <Compile Include="Generated\SysAdministrator.cs" />
+    <Compile Include="Generated\SysAdministratorController.cs" />
+    <Compile Include="Generated\SysConfigRadio.cs" />
+    <Compile Include="Generated\SysConfigRadioController.cs" />
+    <Compile Include="Generated\SysDelegateUser.cs" />
+    <Compile Include="Generated\SysDelegateUserController.cs" />
+    <Compile Include="Generated\SysFormColor.cs" />
+    <Compile Include="Generated\SysFormColorController.cs" />
+    <Compile Include="Generated\SysFunction.cs" />
+    <Compile Include="Generated\SysFunctionController.cs" />
+    <Compile Include="Generated\SysGridViewOption.cs" />
+    <Compile Include="Generated\SysGridViewOptionController.cs" />
+    <Compile Include="Generated\SysGroup.cs" />
+    <Compile Include="Generated\SysGroupController.cs" />
+    <Compile Include="Generated\SysGroupRole.cs" />
+    <Compile Include="Generated\SysGroupRoleController.cs" />
+    <Compile Include="Generated\SysGroupUser.cs" />
+    <Compile Include="Generated\SysGroupUserController.cs" />
+    <Compile Include="Generated\SysImgAndIcon.cs" />
+    <Compile Include="Generated\SysImgAndIconController.cs" />
+    <Compile Include="Generated\SysLockObject.cs" />
+    <Compile Include="Generated\SysLockObjectController.cs" />
+    <Compile Include="Generated\SysManagementUnit.cs" />
+    <Compile Include="Generated\SysManagementUnitController.cs" />
+    <Compile Include="Generated\SysMessage.cs" />
+    <Compile Include="Generated\SysMessageController.cs" />
+    <Compile Include="Generated\SysMultiLanguage.cs" />
+    <Compile Include="Generated\SysMultiLanguageController.cs" />
+    <Compile Include="Generated\SysRole.cs" />
+    <Compile Include="Generated\SysRoleController.cs" />
+    <Compile Include="Generated\SysRolesForUser.cs" />
+    <Compile Include="Generated\SysRolesForUserController.cs" />
+    <Compile Include="Generated\SysScreen.cs" />
+    <Compile Include="Generated\SysScreenController.cs" />
+    <Compile Include="Generated\SysSecurity.cs" />
+    <Compile Include="Generated\SysSecurityController.cs" />
+    <Compile Include="Generated\SysSystemParameter.cs" />
+    <Compile Include="Generated\SysSystemParameterController.cs" />
+    <Compile Include="Generated\SysToolbarButton.cs" />
+    <Compile Include="Generated\SysToolbarButtonController.cs" />
+    <Compile Include="Generated\SysTrace.cs" />
+    <Compile Include="Generated\SysTraceController.cs" />
+    <Compile Include="Generated\SysTrinhky.cs" />
+    <Compile Include="Generated\SysTrinhkyController.cs" />
+    <Compile Include="Generated\SysUser.cs" />
+    <Compile Include="Generated\SysUserController.cs" />
+    <Compile Include="Generated\SysUserPrinter.cs" />
+    <Compile Include="Generated\SysUserPrinterController.cs" />
+    <Compile Include="Generated\SysVersion.cs" />
+    <Compile Include="Generated\SysVersionController.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

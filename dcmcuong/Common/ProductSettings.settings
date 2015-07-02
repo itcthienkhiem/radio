@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ClearCanvas.Common" GeneratedClassName="ProductSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Component" Description="The product name." Type="System.String" Scope="Application">
+      <Value Profile="(Default)">jL55pMp+3yM7A6LSOywdX1oRfRZd9RvJ</Value>
+    </Setting>
+    <Setting Name="Version" Description="The version of the product, which can be different from that of the assemblies." Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="VersionSuffix" Description="Product version suffix (e.g. SP1)." Type="System.String" Scope="Application">
+      <Value Profile="(Default)">vKfTr+ue1fm9jaIYbfkY5g==</Value>
+    </Setting>
+    <Setting Name="Copyright" Description="Product copyright." Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SQpazixeCBBvq0bzF3/Un/1Jj+VVYb1ASJnvtW5wOq0MkD6q0e5fsBbTSf/1f3YmOupFw9rtXbA=</Value>
+    </Setting>
+    <Setting Name="License" Description="Product license." Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SQpazixeCBD4G1zRA+eXWoOkhHpv4j+3ZFb8u6nTqdHUCrHs03TmjVNqz3nFBQnQrGTwhxAjmuQ0DBhC2+vHA6CI2jCC4pwsA7DitYNJDilFVMvNsJTitOPvZ2WpmJfjCs/uCmaoBw0lqA7NrCVKZJaGgaD8XIudDqkFPU4OsL/wgjqVOo83xyCs3b9xcBItyeTUFHNppcNj4NqIyv8guNYRwXNheWprF18wtLHeYjrMUurLJkcNhtzMnVh8kJtrAEiaCpZ9X54u1rB6IDHH+tyC+2I5GiVXtcoJy7TDWO0=</Value>
+    </Setting>
+    <Setting Name="Product" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">jL55pMp+3yM9uLAdmMqy1EZCbfkuN9/i</Value>
+    </Setting>
+    <Setting Name="Edition" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AllowDiagnosticUse" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
